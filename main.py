@@ -6,3 +6,5 @@ solve = Solve.Solve()
 
 #print(solve.getAdjList())
 print(solve.route(2, 10))
+print(solve.firstAlernativeRoute())
+print(solve.secondAlternativeRoute())

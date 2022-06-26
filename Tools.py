@@ -34,7 +34,7 @@ class Tools:
         #print(f"nodo: {i} y padre {path[i]}")
         zpath.append(i) 
         return Tools.obtenerPath(self, path[i], path, zpath)
-    def remove(Gaux, i, j):
+    def remove(self, Gaux, i, j):
         r = []
         #cambiar a indexadeo
         for k in range(len(Gaux[i])):

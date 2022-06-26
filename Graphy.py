@@ -57,10 +57,10 @@ class Grapho:
         Opath, cost = self.t.dijkstra(self.adjList, start, end)
         self.shortRoute = self.t.obtenerPath(end, Opath, auxPath)
         return self.shortRoute
-    def alternativeRoute(self, path, start, end, auxPath):
+    def alternativeRoute(self,copyL, path, start, end, auxPath):
         nPath = []
         #print(nPath)
-        copyG = self.adjList
+        
         copyPath = path
         limit = int(len(copyPath)*0.3)
         for i in range(len(copyPath) - 1):
@@ -68,13 +68,13 @@ class Grapho:
             e = copyPath[i + 1]
             if i > limit and i < len(copyPath) - limit:
                 #print(f"Eliminar de {s} a {e} ?")
-                self.t.remove(copyG, s, e) 
+                self.t.remove(copyL, s, e) 
                 #print(f"Eliminar de {e} a {s} ?")
-                self.t.remove(copyG, e, s)
+                self.t.remove(copyL, e, s)
         #print(copyG)
-        OnewPath, newCost = self.t.dijkstra(copyG, start, end)
+        OnewPath, newCost = self.t.dijkstra(copyL, start, end)
         #print(OnewPath)
-        return self.t.obtenerPath(self, end, OnewPath, auxPath)
+        return self.t.obtenerPath(end, OnewPath, auxPath)
 
     def getNodos(self):
         return self.nodos
