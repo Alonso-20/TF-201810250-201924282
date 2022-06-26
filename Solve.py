@@ -11,7 +11,9 @@ class Solve:
         print("la primera ruta")        
         return self.g.bestRoute(start, end)
     def firstAlernativeRoute(self):
-        
+
         return
     def secondAlternativeRoute(self):
+        return
+    def coordinates(self):
         return
