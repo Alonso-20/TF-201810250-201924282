@@ -1,4 +1,5 @@
 import heapq as hq
+from perlin_noise import PerlinNoise
 import math
 
 class Tools:
@@ -46,4 +47,17 @@ class Tools:
                 #print(f"Se ah quitado {Gaux[i][k]} de {Gaux[i]}")
                 #print(f"Resultado: {Gaux[i]}")
                 break
-        
+    def convert(adj, V):
+        matrix = [[0 for j in range(V)] for i in range(V)]
+     
+        for i in range(V):
+            for j in adj[i]:
+                #print(adj[i][j[0]])
+                matrix[i][j[0]] = j[1]
+     
+        return list(matrix)
+    def matrixPerlinNoiese(self, x, y):
+        noise = PerlinNoise(octaves=1, seed=400)
+        xpix, ypix = x, y
+        pic = [[noise([i/xpix, j/ypix]) for j in range(700)] for i in range(700)]
+        return pic

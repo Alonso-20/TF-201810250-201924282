@@ -10,7 +10,7 @@ class Grapho:
         shortRoute = []
         firstAlternativeRoute = []
         secondAlternativeRoute = []
-    def create(self,path = 'DataSet_Nodos_lat_lon_+1000.csv' ):
+    def create(self,path = 'Data_+1000.csv' ):
         with open(path) as archivo:
             add = set()
             lector = csv.reader(archivo)
@@ -23,7 +23,7 @@ class Grapho:
                         add.add(f"{c2},{c1}")
                         add.add(f"{c1},{c1}")
                         self.nodos.append([c1,c2,float(x),float(y)])
-                        self.pnodos.append([c1,c2])
+                        self.pnodos.append([float(x),float(y)])
     
     
     def createAdjList(self):
@@ -56,7 +56,9 @@ class Grapho:
         auxPath = []
         Opath, cost = self.t.dijkstra(self.adjList, start, end)
         self.shortRoute = self.t.obtenerPath(end, Opath, auxPath)
-        return self.shortRoute
+        
+        #return self.shortRoute
+        return Opath, self.shortRoute
     def alternativeRoute(self,copyL, path, start, end, auxPath):
         nPath = []
         #print(nPath)
@@ -74,9 +76,12 @@ class Grapho:
         #print(copyG)
         OnewPath, newCost = self.t.dijkstra(copyL, start, end)
         #print(OnewPath)
-        return self.t.obtenerPath(end, OnewPath, auxPath)
+        #return self.t.obtenerPath(end, OnewPath, auxPath)
+        return OnewPath, self.t.obtenerPath(end, OnewPath, auxPath)
 
     def getNodos(self):
         return self.nodos
-    def getAdjList(self):
+    def getAdj(self):
         return self.adjList
+    def getCoordinate(self):
+        return self.pnodos

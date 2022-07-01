@@ -7,23 +7,31 @@ class Solve:
         self.g.createAdjList()
         self.bRoute = []
         self.fARoute = []
+        self.sARoute = []
         self.s = 0
         self.e = 0
-        self.adjList = self.g.getAdjList()
-    def getAdjList(self):
-        return self.g.getAdjList()
+        self.adjList = self.g.getAdj()
+    def getAdj(self):
+        return self.g.getAdj()
     def route(self, start, end):
         self.s = start
         self.e = end
-        print("la primera ruta")  
-        self.bRoute = self.g.bestRoute(start, end)
-        return self.g.bestRoute(start, end)
+        route = []
+        #print("la primera ruta")  
+        route, self.bRoute = self.g.bestRoute(start, end)
+        return route
     def firstAlernativeRoute(self):
         auxPath = []
-        self.fARoute = self.g.alternativeRoute(self.adjList, self.bRoute,self.s,self.e,auxPath)
-        return self.fARoute
+        route = []
+        route, self.fARoute = self.g.alternativeRoute(self.adjList, self.bRoute,self.s,self.e,auxPath)
+        return route
     def secondAlternativeRoute(self):
         auxPath = []
-        return self.g.alternativeRoute(self.adjList, self.fARoute,self.s,self.e,auxPath)
+        route, self.sARoute = self.g.alternativeRoute(self.adjList, self.fARoute,self.s,self.e,auxPath)
+        return route
     def coordinates(self):
-        return
+        return self.g.getCoordinate()
+    def recreate(self):
+        self.g.create()
+        self.g.createAdjList()
+        self.adjList = self.g.getAdj()

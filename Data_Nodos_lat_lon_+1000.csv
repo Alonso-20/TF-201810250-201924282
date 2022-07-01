@@ -1,0 +1,1336 @@
+id;name;name_2;Coordenada_x;Coordenada_y
+1;Avenida San Luis;JirÃ³n Romero Hidalgo;-76.9934789;-12.1043287
+2;JirÃ³n Romero Hidalgo;Avenida San Luis;-76.9934789;-12.1043287
+3;JirÃ³n Tampumachay;Calle Aricota;-76.9932513;-12.1153159
+4;Calle Aricota;JirÃ³n Tampumachay;-76.9932513;-12.1153159
+5;Calle Punta Pejerrey;JirÃ³n Tinajones;-76.993232;-12.1135113
+6;JirÃ³n Tinajones;Calle Punta Pejerrey;-76.993232;-12.1135113
+7;Avenida San Borja Sur;JirÃ³n Franz Liszt;-76.9930599;-12.1007318
+8;JirÃ³n Franz Liszt;Avenida San Borja Sur;-76.9930599;-12.1007318
+9;Calle Pablo Usandizaga;Avenida JoaquÃ­n de la Madrid;-76.9930584;-12.1076039
+10;Avenida JoaquÃ­n de la Madrid;Calle Pablo Usandizaga;-76.9930584;-12.1076039
+11;JirÃ³n Bosovich;JirÃ³n Romero Hidalgo;-76.9929546;-12.1040379
+12;JirÃ³n Romero Hidalgo;JirÃ³n Bosovich;-76.9929546;-12.1040379
+13;JirÃ³n Franz Liszt;CiclovÃ­a San Borja Sur;-76.9929476;-12.1003106
+14;CiclovÃ­a San Borja Sur;JirÃ³n Franz Liszt;-76.9929476;-12.1003106
+15;JirÃ³n Franz Liszt;Calle Federico Chopin;-76.9929319;-12.1002488
+16;Calle Federico Chopin;JirÃ³n Franz Liszt;-76.9929319;-12.1002488
+17;Calle Vilcabamba;JirÃ³n Tinajones;-76.9928839;-12.1140476
+18;JirÃ³n Tinajones;Calle Vilcabamba;-76.9928839;-12.1140476
+19;JirÃ³n Tinajones;JirÃ³n Tinajones;-76.9928839;-12.1140476
+20;Avenida San Luis;Bosque;-76.9928656;-12.1091027
+21;Bosque;Avenida San Luis;-76.9928656;-12.1091027
+22;Calle Pablo Usandizaga;Amadeo Vives;-76.9928526;-12.1070643
+23;Amadeo Vives;Calle Pablo Usandizaga;-76.9928526;-12.1070643
+24;Paseo del Bosque;JirÃ³n Trinidad;-76.9927814;-12.1098775
+25;Paseo del Bosque;Paseo del Bosque;-76.9927814;-12.1098775
+26;JirÃ³n Trinidad;Paseo del Bosque;-76.9927814;-12.1098775
+27;Calle Brea y Parinas;JirÃ³n Tampumachay;-76.9927796;-12.1158995
+28;JirÃ³n Tampumachay;Calle Brea y Parinas;-76.9927796;-12.1158995
+29;JirÃ³n CaÃ±Ã³n del Pato;JirÃ³n Fortaleza de Paramonga;-76.9927401;-12.1169858
+30;JirÃ³n Fortaleza de Paramonga;JirÃ³n CaÃ±Ã³n del Pato;-76.9927401;-12.1169858
+31;JirÃ³n Franz Liszt;JirÃ³n Johanes Brahams;-76.992684;-12.0996726
+32;JirÃ³n Franz Liszt;JirÃ³n Franz Liszt;-76.992684;-12.0996726
+33;JirÃ³n Johanes Brahams;JirÃ³n Franz Liszt;-76.992684;-12.0996726
+34;JirÃ³n Johanes Brahams;JirÃ³n Johanes Brahams;-76.992684;-12.0996726
+35;Avenida Primavera;Paseo del Bosque;-76.9926691;-12.1110565
+36;Paseo del Bosque;Avenida Primavera;-76.9926691;-12.1110565
+37;Avenida JoaquÃ­n de la Madrid;Avenida JoaquÃ­n de la Madrid;-76.9926402;-12.1079284
+38;Avenida JoaquÃ­n de la Madrid;Avenida San Luis;-76.9926402;-12.1079284
+39;Avenida San Luis;San Borja;-76.9926306;-12.1085456
+40;San Borja;Avenida San Luis;-76.9926306;-12.1085456
+41;Calle Punta Pejerrey;Avenida Caminos del Inca;-76.9926171;-12.113129
+42;Calle Punta Pejerrey;JirÃ³n Monterrey;-76.9926171;-12.113129
+43;Avenida Caminos del Inca;Calle Punta Pejerrey;-76.9926171;-12.113129
+44;Avenida Caminos del Inca;JirÃ³n Monterrey;-76.9926171;-12.113129
+45;JirÃ³n Monterrey;Calle Punta Pejerrey;-76.9926171;-12.113129
+46;JirÃ³n Monterrey;Avenida Caminos del Inca;-76.9926171;-12.113129
+47;JirÃ³n Franz Schubert;JirÃ³n Leon Baumann;-76.9926005;-12.1018507
+48;JirÃ³n Leon Baumann;JirÃ³n Franz Schubert;-76.9926005;-12.1018507
+49;Calle Hassinger;JirÃ³n Bosovich;-76.9925952;-12.1045572
+50;JirÃ³n Bosovich;Calle Hassinger;-76.9925952;-12.1045572
+51;Paseo del Bosque;Bosque;-76.9924835;-12.1092847
+52;Bosque;Paseo del Bosque;-76.9924835;-12.1092847
+53;JirÃ³n CaÃ±Ã³n del Pato;Pasaje La Mina;-76.9924739;-12.1167636
+54;Pasaje La Mina;JirÃ³n CaÃ±Ã³n del Pato;-76.9924739;-12.1167636
+55;JirÃ³n Fray AngÃ©lico;Calle Juan Gris;-76.9924292;-12.0981702
+56;Calle Juan Gris;JirÃ³n Fray AngÃ©lico;-76.9924292;-12.0981702
+57;JirÃ³n Maurice Utrillo;JirÃ³n Fray AngÃ©lico;-76.9924266;-12.0973702
+58;JirÃ³n Fray AngÃ©lico;JirÃ³n Maurice Utrillo;-76.9924266;-12.0973702
+59;JirÃ³n Fray AngÃ©lico;JirÃ³n Fray AngÃ©lico;-76.9924266;-12.0973702
+60;Avenida San Luis;Calle Melissa;-76.9924038;-12.1080078
+61;Avenida San Luis;Avenida San Luis;-76.9924038;-12.1080078
+62;Avenida San Luis;Avenida JoaquÃ­n de la Madrid;-76.9924038;-12.1080078
+63;Avenida JoaquÃ­n de la Madrid;Calle Melissa;-76.9924038;-12.1080078
+64;Calle Aricota;JirÃ³n Tinajones;-76.9924011;-12.114799
+65;JirÃ³n Tinajones;Calle Aricota;-76.9924011;-12.114799
+66;Calle Melissa;Avenida San Luis;-76.9923729;-12.1079345
+67;Calle Melissa;Avenida JoaquÃ­n de la Madrid;-76.9923729;-12.1079345
+68;JirÃ³n Bethoven;JirÃ³n Franz Liszt;-76.992343;-12.0992424
+69;JirÃ³n Franz Liszt;JirÃ³n Bethoven;-76.992343;-12.0992424
+70;Avenida San Luis;Avenida Boulevard de Surco;-76.9923269;-12.1066415
+71;Calle Venecia;JirÃ³n Trinidad;-76.9923236;-12.1100836
+72;JirÃ³n Trinidad;Calle Venecia;-76.9923236;-12.1100836
+73;JirÃ³n Trinidad;JirÃ³n Trinidad;-76.9923236;-12.1100836
+74;Avenida Boulevard de Surco;Avenida San Luis;-76.9922872;-12.107729
+75;Pasaje Lucas Cranach;JirÃ³n LÃ³pez de Ayala;-76.9922518;-12.0955458
+76;JirÃ³n LÃ³pez de Ayala;Pasaje Lucas Cranach;-76.9922518;-12.0955458
+77;Schrader;JirÃ³n Bosovich;-76.9922357;-12.1051131
+78;JirÃ³n Bosovich;Schrader;-76.9922357;-12.1051131
+79;JirÃ³n CaÃ±Ã³n del Pato;JirÃ³n Tampumachay;-76.9922272;-12.1165698
+80;JirÃ³n Tampumachay;JirÃ³n CaÃ±Ã³n del Pato;-76.9922272;-12.1165698
+81;Paseo del Bosque;San Borja;-76.9921956;-12.1087557
+82;San Borja;Paseo del Bosque;-76.9921956;-12.1087557
+83;Brescia;Avenida Boulevard de Surco;-76.992181;-12.1075919
+84;Avenida Boulevard de Surco;Brescia;-76.992181;-12.1075919
+85;Avenida San Luis;CiclovÃ­a San Luis;-76.9921706;-12.1071208
+86;CiclovÃ­a San Luis;Avenida San Luis;-76.9921706;-12.1071208
+87;JirÃ³n Franz Schubert;Avenida San Borja Sur;-76.9921697;-12.1014432
+88;JirÃ³n Franz Schubert;JirÃ³n Franz Schubert;-76.9921697;-12.1014432
+89;Avenida San Borja Sur;JirÃ³n Franz Schubert;-76.9920735;-12.1013361
+90;Avenida San Borja Sur;Avenida San Borja Sur;-76.9920735;-12.1013361
+91;Calle Hassinger;Arregi;-76.9920533;-12.1038185
+92;Arregi;Calle Hassinger;-76.9920533;-12.1038185
+93;JirÃ³n Rosetti;Calle Juan Gris;-76.9920482;-12.0981752
+94;Calle Juan Gris;JirÃ³n Rosetti;-76.9920482;-12.0981752
+95;TurÃ­n;Avenida Boulevard de Surco;-76.9920248;-12.1072801
+96;Avenida Boulevard de Surco;TurÃ­n;-76.9920248;-12.1072801
+97;JirÃ³n Leon Baumann;JirÃ³n Romero Hidalgo;-76.9920158;-12.1023699
+98;JirÃ³n Romero Hidalgo;JirÃ³n Leon Baumann;-76.9920158;-12.1023699
+99;JirÃ³n Matarani;Pasaje La Mina;-76.9919805;-12.1172595
+100;Pasaje La Mina;JirÃ³n Matarani;-76.9919805;-12.1172595
+101;Calle Amadeo Mozart;JirÃ³n Franz Liszt;-76.9919245;-12.0987823
+102;JirÃ³n Franz Liszt;Calle Amadeo Mozart;-76.9919245;-12.0987823
+103;CiclovÃ­a Primavera;CiclovÃ­a Primavera;-76.9919236;-12.1112567
+104;Paseo del Bosque;Calle Melissa;-76.9919132;-12.1082079
+105;Paseo del Bosque;JirÃ³n Paseo del Bosque;-76.9919132;-12.1082079
+106;Calle Melissa;Paseo del Bosque;-76.9919132;-12.1082079
+107;JirÃ³n Paseo del Bosque;Paseo del Bosque;-76.9919132;-12.1082079
+108;Calle Melissa;JirÃ³n Paseo del Bosque;-76.9919004;-12.108183
+109;JirÃ³n Paseo del Bosque;Calle Melissa;-76.9919004;-12.108183
+110;JirÃ³n Maurice Utrillo;JirÃ³n Rosetti;-76.9918924;-12.0971981
+111;JirÃ³n Rosetti;JirÃ³n Maurice Utrillo;-76.9918924;-12.0971981
+112;Monte Bello;Avenida Primavera;-76.99188785;-12.11108147
+113;Monte Bello;Avenida Angamos Este;-76.99188052;-12.1112056
+114;Avenida Angamos Este;Monte Bello;-76.99188052;-12.1112056
+115;Monte Bello;CiclovÃ­a Primavera;-76.9918771;-12.1112552
+116;CiclovÃ­a Primavera;Monte Bello;-76.9918771;-12.1112552
+117;Calle Monte Bello;Monte Bello;-76.9918733;-12.1112912
+118;Calle Monte Bello;Avenida Primavera;-76.9918733;-12.1112912
+119;Monte Bello;Calle Monte Bello;-76.9918733;-12.1112912
+120;Avenida Primavera;Calle Monte Bello;-76.9918733;-12.1112912
+121;Avenida Primavera;Monte Bello;-76.9918733;-12.1112912
+122;Pasaje Lucas Cranach;Avenida San Borja Norte;-76.991844;-12.095142
+123;Avenida San Borja Norte;Pasaje Lucas Cranach;-76.991844;-12.095142
+124;JirÃ³n Monte Rosa;Calle Monte Bello;-76.9918094;-12.1122154
+125;Calle Monte Bello;JirÃ³n Monte Rosa;-76.9918094;-12.1122154
+126;JirÃ³n Franz Schubert;CiclovÃ­a San Borja Sur;-76.9918073;-12.1009844
+127;CiclovÃ­a San Borja Sur;JirÃ³n Franz Schubert;-76.9918073;-12.1009844
+128;Calle Aricota;Avenida Caminos del Inca;-76.9917928;-12.1144302
+129;Avenida Caminos del Inca;Calle Aricota;-76.9917928;-12.1144302
+130;Calle Monte Bello;Pasaje Monte Azul;-76.9917847;-12.112581
+131;Pasaje Monte Azul;Calle Monte Bello;-76.9917847;-12.112581
+132;Calle Federico Chopin;JirÃ³n Franz Schubert;-76.9917709;-12.1009364
+133;JirÃ³n Franz Schubert;Calle Federico Chopin;-76.9917709;-12.1009364
+134;Pisa;Avenida Boulevard de Surco;-76.9917554;-12.1067408
+135;Avenida Boulevard de Surco;Pisa;-76.9917554;-12.1067408
+136;Calle Monte Bello;JirÃ³n Monterrey;-76.9917519;-12.113027
+137;JirÃ³n Monterrey;Calle Monte Bello;-76.9917519;-12.113027
+138;Brescia;JirÃ³n Paseo del Bosque;-76.9917228;-12.1078384
+139;JirÃ³n Paseo del Bosque;Brescia;-76.9917228;-12.1078384
+140;JirÃ³n Bosovich;Avenida Boulevard de Surco;-76.991676;-12.1057317
+141;Avenida Boulevard de Surco;JirÃ³n Bosovich;-76.991676;-12.1057317
+142;JirÃ³n El Greco;JirÃ³n Maurice Utrillo;-76.9916403;-12.0966998
+143;JirÃ³n Maurice Utrillo;JirÃ³n El Greco;-76.9916403;-12.0966998
+144;JirÃ³n CaÃ±Ã³n del Pato;JirÃ³n Toquepala;-76.9915867;-12.1161464
+145;JirÃ³n Toquepala;JirÃ³n CaÃ±Ã³n del Pato;-76.9915867;-12.1161464
+146;Napoles;Avenida Boulevard de Surco;-76.9915727;-12.1063841
+147;Avenida Boulevard de Surco;Napoles;-76.9915727;-12.1063841
+148;JirÃ³n Leon Baumann;Calle Hassinger;-76.9915601;-12.1027528
+149;Calle Hassinger;JirÃ³n Leon Baumann;-76.9915601;-12.1027528
+150;TurÃ­n;JirÃ³n Paseo del Bosque;-76.9915579;-12.1075157
+151;JirÃ³n Paseo del Bosque;TurÃ­n;-76.9915579;-12.1075157
+152;Schrader;Arregi;-76.9915182;-12.1040442
+153;Arregi;Schrader;-76.9915182;-12.1040442
+154;Calle Juan Gris;JirÃ³n Franz Liszt;-76.9915075;-12.0983489
+155;JirÃ³n Franz Liszt;Calle Juan Gris;-76.9915075;-12.0983489
+156;Calle Venecia;Calle Melissa;-76.9915045;-12.1084143
+157;Calle Melissa;Calle Venecia;-76.9915045;-12.1084143
+158;Verona;JirÃ³n Trinidad;-76.9914359;-12.1100264
+159;JirÃ³n Trinidad;Verona;-76.9914359;-12.1100264
+160;Calle Brea y Parinas;Avenida Caminos del Inca;-76.9914007;-12.1150339
+161;Avenida Caminos del Inca;Calle Brea y Parinas;-76.9914007;-12.1150339
+162;JirÃ³n Maurice Utrillo;JirÃ³n LÃ³pez de Ayala;-76.9913721;-12.0961805
+163;JirÃ³n LÃ³pez de Ayala;JirÃ³n Maurice Utrillo;-76.9913721;-12.0961805
+164;Verona;Avenida Primavera;-76.9913702;-12.1109677
+165;Avenida Primavera;Verona;-76.9913702;-12.1109677
+166;JirÃ³n Johanes Brahams;JirÃ³n Franz Schubert;-76.9913476;-12.1004767
+167;JirÃ³n Franz Schubert;JirÃ³n Johanes Brahams;-76.9913476;-12.1004767
+168;Varese;Avenida Boulevard de Surco;-76.9913132;-12.1058786
+169;Avenida Boulevard de Surco;Varese;-76.9913132;-12.1058786
+170;Pisa;JirÃ³n Paseo del Bosque;-76.9912939;-12.1070054
+171;JirÃ³n Paseo del Bosque;Pisa;-76.9912939;-12.1070054
+172;Calle Venecia;Bernstein;-76.9912764;-12.1079937
+173;Bernstein;Calle Venecia;-76.9912764;-12.1079937
+174;JirÃ³n Matarani;JirÃ³n Toquepala;-76.9912077;-12.1167307
+175;JirÃ³n Toquepala;JirÃ³n Matarani;-76.9912077;-12.1167307
+176;Napoles;JirÃ³n Paseo del Bosque;-76.9910925;-12.1066109
+177;JirÃ³n Paseo del Bosque;Napoles;-76.9910925;-12.1066109
+178;Avenida Boulevard de Surco;Pasaje Varese;-76.9910899;-12.1054194
+179;Pasaje Varese;Avenida Boulevard de Surco;-76.9910899;-12.1054194
+180;JirÃ³n Leon Baumann;Schrader;-76.991087;-12.1030961
+181;Schrader;JirÃ³n Leon Baumann;-76.991087;-12.1030961
+182;JirÃ³n Maurice Utrillo;Avenida San Borja Norte;-76.9910822;-12.0956707
+183;Avenida San Borja Norte;JirÃ³n Maurice Utrillo;-76.9910822;-12.0956707
+184;Sicilia;JirÃ³n Paseo del Bosque;-76.9910792;-12.1065849
+185;JirÃ³n Paseo del Bosque;Sicilia;-76.9910792;-12.1065849
+186;JirÃ³n Bethoven;JirÃ³n Franz Schubert;-76.9909899;-12.10007
+187;JirÃ³n Franz Schubert;JirÃ³n Bethoven;-76.9909899;-12.10007
+188;Preising;Calle Juan Gris;-76.9909684;-12.0986317
+189;Calle Juan Gris;Preising;-76.9909684;-12.0986317
+190;Calle Juan Gris;Calle Juan Gris;-76.9909684;-12.0986317
+191;JirÃ³n CaÃ±Ã³n del Pato;Avenida Caminos del Inca;-76.9909255;-12.115755
+192;Avenida Caminos del Inca;JirÃ³n CaÃ±Ã³n del Pato;-76.9909255;-12.115755
+193;Varese;JirÃ³n Paseo del Bosque;-76.9908383;-12.106111
+194;JirÃ³n Paseo del Bosque;Varese;-76.9908383;-12.106111
+195;Calle La Pampilla;JirÃ³n Toquepala;-76.9907728;-12.1174009
+196;JirÃ³n Toquepala;Calle La Pampilla;-76.9907728;-12.1174009
+197;Calle Monte Grande;Avenida Primavera;-76.9907519;-12.111215
+198;Avenida Primavera;Calle Monte Grande;-76.9907519;-12.111215
+199;Calle La Pradera;Bernstein;-76.9907125;-12.10812
+200;Bernstein;Calle La Pradera;-76.9907125;-12.10812
+201;JirÃ³n Monte Rosa;Calle Monte Grande;-76.9906882;-12.1121441
+202;Calle Monte Grande;JirÃ³n Monte Rosa;-76.9906882;-12.1121441
+203;Calle Monte Grande;Pasaje Monte Azul;-76.9906576;-12.1125412
+204;Pasaje Monte Azul;Calle Monte Grande;-76.9906576;-12.1125412
+205;Calle Venecia;Sicilia;-76.9906564;-12.1067951
+206;Sicilia;Calle Venecia;-76.9906564;-12.1067951
+207;Calle La Pradera;Siena;-76.9906526;-12.1089249
+208;Siena;Calle La Pradera;-76.9906526;-12.1089249
+209;Calle Monte Grande;JirÃ³n Monterrey;-76.9906318;-12.1129498
+210;JirÃ³n Monterrey;Calle Monte Grande;-76.9906318;-12.1129498
+211;JirÃ³n Paseo del Bosque;Pasaje Varese;-76.9906005;-12.10565
+212;Pasaje Varese;JirÃ³n Paseo del Bosque;-76.9906005;-12.10565
+213;JirÃ³n Leon Baumann;Avenida Boulevard de Surco;-76.9905996;-12.1034242
+214;Avenida Boulevard de Surco;JirÃ³n Leon Baumann;-76.9905996;-12.1034242
+215;Calle Amadeo Mozart;JirÃ³n Franz Schubert;-76.9905835;-12.0996056
+216;Calle Amadeo Mozart;Calle Amadeo Mozart;-76.9905835;-12.0996056
+217;JirÃ³n Franz Schubert;Calle Amadeo Mozart;-76.9905835;-12.0996056
+218;Calle La Pradera;JirÃ³n Trinidad;-76.990573;-12.1099656
+219;JirÃ³n Trinidad;Calle La Pradera;-76.990573;-12.1099656
+220;Calle Schipper;Calle Federico Chopin;-76.9905728;-12.1019398
+221;Calle Federico Chopin;Calle Schipper;-76.9905728;-12.1019398
+222;Calle La Pradera;Avenida Primavera;-76.9905062;-12.1109049
+223;Avenida Primavera;Calle La Pradera;-76.9905062;-12.1109049
+224;Avenida Del Pinar;JirÃ³n Paseo del Bosque;-76.9903441;-12.1051454
+225;JirÃ³n Paseo del Bosque;Avenida Del Pinar;-76.9903441;-12.1051454
+226;Avenida de la Floresta;Avenida San Borja Sur;-76.9903303;-12.1028605
+227;Avenida Boulevard de Surco;Avenida San Borja Sur;-76.9903303;-12.1028605
+228;Calle Schipper;JirÃ³n Johanes Brahams;-76.9902959;-12.1013658
+229;JirÃ³n Johanes Brahams;Calle Schipper;-76.9902959;-12.1013658
+230;Avenida San Borja Sur;Avenida de la Floresta;-76.9902638;-12.1027258
+231;Avenida San Borja Sur;Avenida Boulevard de Surco;-76.9902638;-12.1027258
+232;Calle Juan Gris;JirÃ³n Franz Schubert;-76.9902306;-12.099162
+233;JirÃ³n Franz Schubert;Calle Juan Gris;-76.9902306;-12.099162
+234;JirÃ³n El Greco;JirÃ³n Franz Liszt;-76.9902294;-12.0970302
+235;JirÃ³n Franz Liszt;JirÃ³n El Greco;-76.9902294;-12.0970302
+236;Calle La Pradera;Sicilia;-76.9901841;-12.1070229
+237;Sicilia;Calle La Pradera;-76.9901841;-12.1070229
+238;Ciclovia San Borja Norte;CiclovÃ­a San Borja Norte;-76.9901368;-12.0957934
+239;CiclovÃ­a San Borja Norte;Ciclovia San Borja Norte;-76.9901368;-12.0957934
+240;Calle La Pampilla;Avenida Caminos del Inca;-76.9901261;-12.1170039
+241;Avenida Caminos del Inca;Calle La Pampilla;-76.9901261;-12.1170039
+242;JirÃ³n Bethoven;Calle Schipper;-76.9900699;-12.1008091
+243;Calle Schipper;JirÃ³n Bethoven;-76.9900699;-12.1008091
+244;JirÃ³n Durero;Avenida San Borja Norte;-76.9899724;-12.0957515
+245;Avenida San Borja Norte;JirÃ³n Durero;-76.9899724;-12.0957515
+246;Sicilia;Sicilia;-76.9899313;-12.1070487
+247;Calle Monte Lunar;Avenida Caminos del Inca;-76.9898986;-12.1170947
+248;Avenida Caminos del Inca;Calle Monte Lunar;-76.9898986;-12.1170947
+249;Avenida Caminos del Inca;Avenida Caminos del Inca;-76.9898986;-12.1170947
+250;Avenida de la Floresta;Avenida Boulevard de Surco;-76.9898692;-12.103119
+251;Avenida Boulevard de Surco;Avenida de la Floresta;-76.9898692;-12.103119
+252;Botiger;Preising;-76.9898325;-12.0977541
+253;Botiger;Botiger;-76.9898325;-12.0977541
+254;Preising;Botiger;-76.9898325;-12.0977541
+255;JirÃ³n El Greco;Botiger;-76.9898325;-12.0971561
+256;Botiger;JirÃ³n El Greco;-76.9898325;-12.0971561
+257;Avenida Del Pinar;Siena;-76.9898012;-12.1088749
+258;Siena;Avenida Del Pinar;-76.9898012;-12.1088749
+259;Botiger;Calle Mayer;-76.9897975;-12.0988528
+260;Calle Mayer;Botiger;-76.9897975;-12.0988528
+261;Botiger;Calle Juan Gris;-76.9897803;-12.0995369
+262;Calle Juan Gris;Botiger;-76.9897803;-12.0995369
+263;Avenida Del Pinar;Calle La Florencia;-76.9897388;-12.1064365
+264;Calle La Florencia;Avenida Del Pinar;-76.9897388;-12.1064365
+265;JirÃ³n Breton;JirÃ³n Durero;-76.9897252;-12.095016
+266;JirÃ³n Durero;JirÃ³n Breton;-76.9897252;-12.095016
+267;Sicilia;Avenida Del Pinar;-76.9896995;-12.1070294
+268;Avenida Del Pinar;Sicilia;-76.9896995;-12.1070294
+269;Avenida Del Pinar;Avenida Del Pinar;-76.9896627;-12.1075689
+270;Avenida Primavera;Avenida Angamos Este;-76.989649;-12.1110394
+271;Avenida Angamos Este;Avenida Primavera;-76.989649;-12.1110394
+272;Avenida Primavera;Avenida Del Pinar;-76.9896369;-12.1111467
+273;Avenida Del Pinar;Avenida Esmeralda;-76.9896097;-12.1081034
+274;Avenida Esmeralda;Avenida Del Pinar;-76.9896097;-12.1081034
+275;Avenida Del Pinar;JirÃ³n Monterrey;-76.9895743;-12.112877
+276;JirÃ³n Monterrey;Avenida Del Pinar;-76.9895743;-12.112877
+277;JirÃ³n Monte Rosa;Avenida Del Pinar;-76.9895674;-12.1120726
+278;Avenida Del Pinar;JirÃ³n Monte Rosa;-76.9895674;-12.1120726
+279;JirÃ³n Bethoven;Avenida Boulevard de Surco;-76.9895631;-12.101179
+280;Avenida Boulevard de Surco;JirÃ³n Bethoven;-76.9895631;-12.101179
+281;Avenida Del Pinar;JirÃ³n Trinidad;-76.9894659;-12.1098876
+282;JirÃ³n Trinidad;Avenida Del Pinar;-76.9894659;-12.1098876
+283;Avenida de la Floresta;JirÃ³n Paseo del Bosque;-76.9894348;-12.1033654
+284;JirÃ³n Los Aviadores;Calle Monte Lunar;-76.9894291;-12.1167835
+285;Calle Monte Lunar;JirÃ³n Los Aviadores;-76.9894291;-12.1167835
+286;Avenida Del Pinar;Avenida Primavera;-76.9893907;-12.110821
+287;JirÃ³n Los Aviadores;Avenida Caminos del Inca;-76.9893807;-12.1179036
+288;Avenida Caminos del Inca;JirÃ³n Los Aviadores;-76.9893807;-12.1179036
+289;JirÃ³n Paseo del Bosque;Avenida de la Floresta;-76.9893592;-12.1032106
+290;JirÃ³n Paseo del Bosque;JirÃ³n Paseo del Bosque;-76.9893592;-12.1032106
+291;Calle Amadeo Mozart;Avenida Boulevard de Surco;-76.9893039;-12.1005358
+292;Avenida Boulevard de Surco;Calle Amadeo Mozart;-76.9893039;-12.1005358
+293;JirÃ³n LÃ³pez de Ayala;Avenida Boulevard de Surco;-76.9892428;-12.0967544
+294;Avenida Boulevard de Surco;JirÃ³n LÃ³pez de Ayala;-76.9892428;-12.0967544
+295;JirÃ³n El Greco;Avenida Boulevard de Surco;-76.9892353;-12.0973383
+296;Avenida Boulevard de Surco;JirÃ³n El Greco;-76.9892353;-12.0973383
+297;Avenida Boulevard de Surco;Avenida Boulevard de Surco;-76.9892234;-12.0961655
+298;Avenida San Borja Norte;Avenida Boulevard de Surco;-76.9892231;-12.0961131
+299;Avenida Boulevard de Surco;Avenida San Borja Norte;-76.9892231;-12.0961131
+300;Calle Mayer;Avenida Boulevard de Surco;-76.9891924;-12.0988488
+301;Avenida Boulevard de Surco;Calle Mayer;-76.9891924;-12.0988488
+302;Avenida Boulevard de Surco;Calle Juan Gris;-76.989129;-12.0999137
+303;Calle Juan Gris;Avenida Boulevard de Surco;-76.989129;-12.0999137
+304;Calle Montelimar;Calle Monte Cruz;-76.989005;-12.1164852
+305;Calle Monte Cruz;Calle Montelimar;-76.989005;-12.1164852
+306;Avenida de la Floresta;Avenida de la Floresta;-76.9889312;-12.1046823
+307;Avenida de la Floresta;Calle La Florencia;-76.9888101;-12.1063761
+308;Calle La Florencia;Avenida de la Floresta;-76.9888101;-12.1063761
+309;Avenida Primavera;Calle Monte Pio;-76.988784;-12.1109833
+310;Calle Buen Retiro;Avenida de la Floresta;-76.9886097;-12.108951
+311;Avenida de la Floresta;Calle Buen Retiro;-76.9886097;-12.108951
+312;Calle Monte Pio;CiclovÃ­a Primavera;-76.9886024;-12.111066
+313;CiclovÃ­a Primavera;Calle Monte Pio;-76.9886024;-12.111066
+314;Avenida San Borja Norte;JirÃ³n Paseo del Bosque;-76.988581;-12.096307
+315;Avenida de la Floresta;Avenida Esmeralda;-76.9885654;-12.1076511
+316;Avenida Esmeralda;Avenida de la Floresta;-76.9885654;-12.1076511
+317;Calle Monte Pio;Calle Monte Pio;-76.9885608;-12.111085
+318;Calle Monte Pio;Avenida Primavera;-76.9885608;-12.111085
+319;JirÃ³n Trinidad;Avenida de la Floresta;-76.9885531;-12.1098232
+320;Avenida de la Floresta;JirÃ³n Trinidad;-76.9885531;-12.1098232
+321;JirÃ³n Paseo del Bosque;Avenida San Borja Norte;-76.9885144;-12.0961065
+322;Calle Monte Pio;JirÃ³n Monterrey;-76.9884619;-12.1128003
+323;JirÃ³n Monterrey;Calle Monte Pio;-76.9884619;-12.1128003
+324;JirÃ³n Monterrey;JirÃ³n Monterrey;-76.9884619;-12.1128003
+325;Avenida Primavera;Avenida de la Floresta;-76.9883928;-12.1107335
+326;Talavera;JirÃ³n Paseo del Bosque;-76.9879953;-12.0946608
+327;JirÃ³n Paseo del Bosque;Talavera;-76.9879953;-12.0946608
+328;Calle Montelimar;Montelimar;-76.9879498;-12.1164241
+329;Montelimar;Calle Montelimar;-76.9879498;-12.1164241
+330;JirÃ³n Monte Cruz;Montelimar;-76.9879117;-12.1170432
+331;Montelimar;JirÃ³n Monte Cruz;-76.9879117;-12.1170432
+332;Eduardo Ford;Avenida San Borja Norte;-76.9878668;-12.0963304
+333;Avenida San Borja Norte;Eduardo Ford;-76.9878668;-12.0963304
+334;Avenida De la Floresta;Avenida Primavera;-76.9875216;-12.1110184
+335;Eduardo Ford;Calle Leonard Bernstein;-76.9875201;-12.0953586
+336;Calle Leonard Bernstein;Eduardo Ford;-76.9875201;-12.0953586
+337;Avenida De la Floresta;JirÃ³n Monterrey;-76.987411;-12.1127279
+338;JirÃ³n Monterrey;Avenida De la Floresta;-76.987411;-12.1127279
+339;Avenida De la Floresta;JirÃ³n Monte Cruz;-76.9873637;-12.1170049
+340;JirÃ³n Monte Cruz;Avenida De la Floresta;-76.9873637;-12.1170049
+341;Eduardo Ford;Talavera;-76.9873477;-12.0948725
+342;Talavera;Eduardo Ford;-76.9873477;-12.0948725
+343;Calle Monte Mayor;Avenida De la Floresta;-76.9873039;-12.1144134
+344;Avenida De la Floresta;Calle Monte Mayor;-76.9873039;-12.1144134
+345;Calle Monte Carlo;Avenida De la Floresta;-76.9872513;-12.115265
+346;Calle Monte Carlo;Calle Monte Carlo;-76.9872513;-12.115265
+347;Avenida De la Floresta;Calle Monte Carlo;-76.9872513;-12.115265
+348;Avenida De la Floresta;Calle Monte Umbroso;-76.9871317;-12.117168
+349;Calle Monte Umbroso;Avenida De la Floresta;-76.9871317;-12.117168
+350;JirÃ³n Trinidad;Pasaje Sausalito;-76.9870696;-12.1097158
+351;Pasaje Sausalito;JirÃ³n Trinidad;-76.9870696;-12.1097158
+352;Avenida Primavera;Pasaje Sausalito;-76.9869888;-12.1106437
+353;Pasaje Sausalito;Avenida Primavera;-76.9869888;-12.1106437
+354;Calle Andalucia;Avenida Esmeralda;-76.98674;-12.1079936
+355;Avenida Esmeralda;Calle Andalucia;-76.98674;-12.1079936
+356;Calle Andalucia;Calle Buen Retiro;-76.9866787;-12.1088044
+357;Calle Buen Retiro;Calle Andalucia;-76.9866787;-12.1088044
+358;Calle Andalucia;JirÃ³n Trinidad;-76.9866121;-12.1096865
+359;JirÃ³n Trinidad;Calle Andalucia;-76.9866121;-12.1096865
+360;Calle Monte Sierpe;JirÃ³n Monterrey;-76.9865767;-12.1126705
+361;JirÃ³n Monterrey;Calle Monte Sierpe;-76.9865767;-12.1126705
+362;Calle Monte Alegre;Calle Monte Carlo;-76.9863832;-12.1151965
+363;Calle Monte Carlo;Calle Monte Alegre;-76.9863832;-12.1151965
+364;Mac Mahon;Avenida San Borja Norte;-76.9863165;-12.096368
+365;Avenida San Borja Norte;Mac Mahon;-76.9863165;-12.096368
+366;Avenida Primavera;Monte Seco;-76.9858123;-12.1108961
+367;Monte Seco;Avenida Primavera;-76.9858123;-12.1108961
+368;Avenida Esmeralda;Calle Matamoros;-76.9857642;-12.1078366
+369;Calle Matamoros;Avenida Esmeralda;-76.9857642;-12.1078366
+370;Monte Real;Monte Seco;-76.9857421;-12.1118625
+371;Monte Seco;Monte Real;-76.9857421;-12.1118625
+372;Calle Matamoros;Palo Santo;-76.9856776;-12.1092957
+373;Palo Santo;Calle Matamoros;-76.9856776;-12.1092957
+374;Calle Matamoros;JirÃ³n Trinidad;-76.9856545;-12.109619
+375;Calle Matamoros;Calle Matamoros;-76.9856545;-12.109619
+376;JirÃ³n Trinidad;Calle Matamoros;-76.9856545;-12.109619
+377;Calle Matamoros;Avenida Primavera;-76.9855832;-12.1105353
+378;Avenida Primavera;Calle Matamoros;-76.9855832;-12.1105353
+379;Avenida Velasco Astete Oeste;Calle 26;-76.9855248;-12.0954731
+380;Calle 26;Avenida Velasco Astete Oeste;-76.9855248;-12.0954731
+381;Monte Real;JirÃ³n Monte Carmelo;-76.9855034;-12.1118501
+382;JirÃ³n Monte Carmelo;Monte Real;-76.9855034;-12.1118501
+383;Avenida Velasco Astete Oeste;JirÃ³n 27;-76.9854814;-12.096088
+384;JirÃ³n 27;Avenida Velasco Astete Oeste;-76.9854814;-12.096088
+385;Avenida Velasco Astete Oeste;Avenida San Borja Norte;-76.985465;-12.0963225
+386;Avenida San Borja Norte;Avenida Velasco Astete Oeste;-76.985465;-12.0963225
+387;JirÃ³n Monte Blanco;JirÃ³n Monte Carmelo;-76.9853766;-12.113429
+388;JirÃ³n Monte Carmelo;JirÃ³n Monte Blanco;-76.9853766;-12.113429
+389;Calle Monte Mayor;JirÃ³n Monte Carmelo;-76.9853228;-12.1142827
+390;JirÃ³n Monte Carmelo;Calle Monte Mayor;-76.9853228;-12.1142827
+391;Calle Monte Carlo;JirÃ³n Monte Carmelo;-76.9852758;-12.1151152
+392;JirÃ³n Monte Carmelo;Calle Monte Carlo;-76.9852758;-12.1151152
+393;Calle Monte Alegre;JirÃ³n Monte Carmelo;-76.9852206;-12.1159619
+394;JirÃ³n Monte Carmelo;Calle Monte Alegre;-76.9852206;-12.1159619
+395;Calle Monte Umbroso;JirÃ³n Monte Carmelo;-76.9851212;-12.1170263
+396;JirÃ³n Monte Carmelo;Calle Monte Umbroso;-76.9851212;-12.1170263
+397;JirÃ³n Pacaritambo;Avenida Velasco Astete;-76.9850307;-12.1047045
+398;Avenida Velasco Astete;JirÃ³n Pacaritambo;-76.9850307;-12.1047045
+399;Avenida Juan Bielovucic Cavalier;Avenida Juan Bielovucic Cavalier;-76.9849349;-12.1037367
+400;Avenida Juan Bielovucic Cavalier;Avenida Velasco Astete;-76.9849349;-12.1037367
+401;Avenida Velasco Astete;Avenida Juan Bielovucic Cavalier;-76.9849349;-12.1037367
+402;Avenida Velasco Astete;JirÃ³n Hermano Lobo;-76.984901;-12.1064004
+403;JirÃ³n Hermano Lobo;Avenida Velasco Astete;-76.984901;-12.1064004
+404;Calle 26;Calle 29;-76.9848258;-12.0954238
+405;Calle 29;Calle 26;-76.9848258;-12.0954238
+406;Avenida Esmeralda;Avenida Velasco Astete;-76.9848098;-12.1077689
+407;Avenida Velasco Astete;Avenida Esmeralda;-76.9848098;-12.1077689
+408;Avenida Velasco Astete;Avenida Velasco Astete;-76.9848098;-12.1077689
+409;Palo Santo;Avenida Velasco Astete;-76.9847068;-12.1092311
+410;Avenida Velasco Astete;Palo Santo;-76.9847068;-12.1092311
+411;JirÃ³n La NiÃ±a;Calle Monte Umbroso;-76.9846105;-12.1170008
+412;Calle Monte Umbroso;JirÃ³n La NiÃ±a;-76.9846105;-12.1170008
+413;Avenida San Borja Norte;Calle 20;-76.9845282;-12.0967845
+414;Monte Real;Avenida Velasco Astete;-76.9845254;-12.1117906
+415;Avenida Velasco Astete;Monte Real;-76.9845254;-12.1117906
+416;Avenida Velasco Astete;JirÃ³n Los Recuerdos;-76.9845092;-12.1096032
+417;JirÃ³n Los Recuerdos;Avenida Velasco Astete;-76.9845092;-12.1096032
+418;Avenida Primavera;Avenida Primavera;-76.9844503;-12.1104602
+419;Avenida Primavera;Avenida Velasco Astete;-76.9844503;-12.1104602
+420;Avenida Velasco Astete;CiclovÃ­a Primavera;-76.9844373;-12.1107819
+421;CiclovÃ­a Primavera;Avenida Velasco Astete;-76.9844373;-12.1107819
+422;Avenida Velasco Astete;Avenida Primavera;-76.9844361;-12.1108059
+423;JirÃ³n Monte Blanco;Avenida Velasco Astete;-76.9844128;-12.1133775
+424;Avenida Velasco Astete;JirÃ³n Monte Blanco;-76.9844128;-12.1133775
+425;Monte Real;JirÃ³n Monte Real;-76.9843658;-12.1117762
+426;Avenida Velasco Astete;JirÃ³n Monte Real;-76.9843658;-12.1117762
+427;JirÃ³n Monte Real;Monte Real;-76.9843658;-12.1117762
+428;JirÃ³n Monte Real;Avenida Velasco Astete;-76.9843658;-12.1117762
+429;Avenida Velasco Astete;Calle Monte Carlo;-76.9842855;-12.1150306
+430;Calle Monte Carlo;Avenida Velasco Astete;-76.9842855;-12.1150306
+431;Calle Monte Umbroso;Calle Monte Umbroso;-76.9841656;-12.1169704
+432;Calle Monte Umbroso;Avenida Velasco Astete;-76.9841656;-12.1169704
+433;Avenida Velasco Astete;Calle Monte Umbroso;-76.9841656;-12.1169704
+434;Avenida del Sur;Avenida Velasco Astete;-76.9841072;-12.1154201
+435;Avenida Velasco Astete;Avenida del Sur;-76.9841072;-12.1154201
+436;Avenida San Borja Norte;Avenida San Borja Norte;-76.983999;-12.0967628
+437;Avenida San Borja Norte;Intercambio Vial El Derby;-76.983999;-12.0967628
+438;Intercambio Vial El Derby;Avenida San Borja Norte;-76.983999;-12.0967628
+439;Monte Umbroso;Calle Monte Umbroso;-76.9839825;-12.1169622
+440;Monte Umbroso;Avenida Velasco Astete;-76.9839825;-12.1169622
+441;Calle Monte Umbroso;Monte Umbroso;-76.9839825;-12.1169622
+442;Avenida Velasco Astete;Monte Umbroso;-76.9839825;-12.1169622
+443;JirÃ³n Pacaritambo;JirÃ³n Alfredo GaleÃ³n;-76.9838913;-12.1046167
+444;JirÃ³n Alfredo GaleÃ³n;JirÃ³n Pacaritambo;-76.9838913;-12.1046167
+445;JirÃ³n Alfredo GaleÃ³n;JirÃ³n Hermano Lobo;-76.9837644;-12.1063189
+446;JirÃ³n Hermano Lobo;JirÃ³n Alfredo GaleÃ³n;-76.9837644;-12.1063189
+447;JirÃ³n Hermano Lobo;JirÃ³n Hermano Lobo;-76.9837644;-12.1063189
+448;JirÃ³n Alfredo GaleÃ³n;JirÃ³n Alfredo GaleÃ³n;-76.9836622;-12.1076883
+449;JirÃ³n Alfredo GaleÃ³n;Avenida Esmeralda;-76.9836622;-12.1076883
+450;Avenida Esmeralda;JirÃ³n Alfredo GaleÃ³n;-76.9836453;-12.1078676
+451;JirÃ³n Alfredo GaleÃ³n;JirÃ³n Mayorazgo;-76.9835878;-12.1086698
+452;JirÃ³n Mayorazgo;JirÃ³n Alfredo GaleÃ³n;-76.9835878;-12.1086698
+453;Calle 26;Calle 22;-76.9835718;-12.0953118
+454;Calle 22;Calle 26;-76.9835718;-12.0953118
+455;JirÃ³n Alfredo GaleÃ³n;JirÃ³n Los Recuerdos;-76.9835267;-12.1095222
+456;JirÃ³n Los Recuerdos;JirÃ³n Alfredo GaleÃ³n;-76.9835267;-12.1095222
+457;JirÃ³n 27;Calle 22;-76.9834789;-12.0959905
+458;Calle 22;JirÃ³n 27;-76.9834789;-12.0959905
+459;Calle 20;Avenida San Borja Norte;-76.9834708;-12.0970297
+460;Monte Flor;JirÃ³n Monte Real;-76.9833822;-12.1117077
+461;Calle 22;Avenida San Borja Norte;-76.9833722;-12.0968007
+462;Avenida San Borja Norte;Calle 22;-76.9833722;-12.0968007
+463;Conde de La Vega;Monte Umbroso;-76.9833021;-12.1169214
+464;Monte Umbroso;Conde de La Vega;-76.9833021;-12.1169214
+465;Monte Flor;Monte Flor;-76.9832828;-12.1128155
+466;Ensenada;Avenida Primavera;-76.9832711;-12.1103712
+467;Avenida Primavera;Ensenada;-76.9832711;-12.1103712
+468;Monte Flor;Pasaje Monte Canelo;-76.983252;-12.1126962
+469;Pasaje Monte Canelo;Monte Flor;-76.983252;-12.1126962
+470;JirÃ³n Monte Blanco;Monte Flor;-76.9832495;-12.1132825
+471;Monte Flor;JirÃ³n Monte Blanco;-76.9832495;-12.1132825
+472;Avenida Juan Bielovucic Cavalier;Alameda Los Picaflores;-76.9830843;-12.1035712
+473;Alameda Los Picaflores;Avenida Juan Bielovucic Cavalier;-76.9830843;-12.1035712
+474;Alameda Los Picaflores;Alameda Los Picaflores;-76.9830843;-12.1035712
+475;JirÃ³n Pacaritambo;Alameda Los Picaflores;-76.983018;-12.1045495
+476;Alameda Los Picaflores;JirÃ³n Pacaritambo;-76.983018;-12.1045495
+477;Calle Monte Claro;Avenida Primavera;-76.9829849;-12.110707
+478;Avenida Primavera;Calle Monte Claro;-76.9829849;-12.110707
+479;Calle 26;Calle 25;-76.9829262;-12.0952199
+480;Calle 25;Calle 26;-76.9829262;-12.0952199
+481;Calle Monte Claro;JirÃ³n Monte Real;-76.9829212;-12.111672
+482;JirÃ³n Monte Real;Calle Monte Claro;-76.9829212;-12.111672
+483;Avenida del Sur;Monte Flor;-76.9829177;-12.114087
+484;Monte Flor;Avenida del Sur;-76.9829177;-12.114087
+485;Alameda Los Picaflores;JirÃ³n Hermano Lobo;-76.9829017;-12.1062571
+486;JirÃ³n Hermano Lobo;Alameda Los Picaflores;-76.9829017;-12.1062571
+487;Avenida del Sur;JirÃ³n Monte Flor;-76.9828243;-12.1141355
+488;JirÃ³n Monte Flor;Avenida del Sur;-76.9828243;-12.1141355
+489;Calle El Dorado;Alameda Los Picaflores;-76.9827511;-12.105387
+490;Alameda Los Picaflores;Calle El Dorado;-76.9827511;-12.105387
+491;JirÃ³n Las Garzas;Alameda Los Picaflores;-76.9826872;-12.1062417
+492;JirÃ³n Las Garzas;JirÃ³n Hermano Lobo;-76.9826872;-12.1062417
+493;Alameda Los Picaflores;JirÃ³n Las Garzas;-76.9826872;-12.1062417
+494;JirÃ³n Hermano Lobo;JirÃ³n Las Garzas;-76.9826872;-12.1062417
+495;JirÃ³n Las Garzas;Calle Bello Horizonte;-76.9826292;-12.1071033
+496;Calle Bello Horizonte;JirÃ³n Las Garzas;-76.9826292;-12.1071033
+497;Avenida Esmeralda;JirÃ³n Las Garzas;-76.9825824;-12.1078017
+498;Avenida Esmeralda;Avenida Esmeralda;-76.9825824;-12.1078017
+499;JirÃ³n Las Garzas;Avenida Esmeralda;-76.9825824;-12.1078017
+500;JirÃ³n Las Garzas;JirÃ³n Las Garzas;-76.9825824;-12.1078017
+501;JirÃ³n Mayorazgo;JirÃ³n Las Garzas;-76.9825279;-12.1086134
+502;JirÃ³n Las Garzas;JirÃ³n Mayorazgo;-76.9825279;-12.1086134
+503;Calle M. Ganoza;Monte Umbroso;-76.9825205;-12.1167761
+504;Monte Umbroso;Calle M. Ganoza;-76.9825205;-12.1167761
+505;JirÃ³n 27;Pasaje 21;-76.9825178;-12.0958631
+506;Pasaje 21;JirÃ³n 27;-76.9825178;-12.0958631
+507;Calle 26;JirÃ³n 24;-76.9823872;-12.0951575
+508;JirÃ³n 24;Calle 26;-76.9823872;-12.0951575
+509;Intercambio Vial El Derby;Pasaje 21;-76.98236059;-12.09666295
+510;Pasaje 21;Intercambio Vial El Derby;-76.98236059;-12.09666295
+511;Avenida San Borja Norte;Pasaje 21;-76.9823498;-12.0967387
+512;Pasaje 21;Avenida San Borja Norte;-76.9823498;-12.0967387
+513;Pasaje 21;Pasaje 21;-76.9823444;-12.0967768
+514;Avenida del Sur;Pasaje Monte Canelo;-76.9823299;-12.1132185
+515;Pasaje Monte Canelo;Avenida del Sur;-76.9823299;-12.1132185
+516;Monte Umbroso;Pasaje Monte Cristi;-76.9823131;-12.1166092
+517;Pasaje Monte Cristi;Monte Umbroso;-76.9823131;-12.1166092
+518;JirÃ³n 27;JirÃ³n 24;-76.9823101;-12.0958338
+519;JirÃ³n 24;JirÃ³n 27;-76.9823101;-12.0958338
+520;Calle 20;Pasaje 21;-76.9822406;-12.0975078
+521;Pasaje 21;Calle 20;-76.9822406;-12.0975078
+522;Conde de La Vega;JirÃ³n Monte Flor;-76.9821983;-12.1144616
+523;JirÃ³n Monte Flor;Conde de La Vega;-76.9821983;-12.1144616
+524;Mora;JirÃ³n Los Recuerdos;-76.9821331;-12.1094354
+525;JirÃ³n Los Recuerdos;Mora;-76.9821331;-12.1094354
+526;Avenida del Sur;Pasaje Monte Hermoso;-76.9821085;-12.1128079
+527;Pasaje Monte Hermoso;Avenida del Sur;-76.9821085;-12.1128079
+528;JirÃ³n Monte Real;Monte Flor;-76.9820875;-12.111595
+529;Mora;Avenida Primavera;-76.9820731;-12.1102801
+530;Avenida Primavera;Mora;-76.9820731;-12.1102801
+531;Monte Umbroso;JirÃ³n BatallÃ³n Tarma;-76.9818536;-12.115822
+532;JirÃ³n BatallÃ³n Tarma;Monte Umbroso;-76.9818536;-12.115822
+533;Pasaje Montesco;Pasaje Monte Cristi;-76.9818341;-12.1169779
+534;Pasaje Monte Cristi;Pasaje Montesco;-76.9818341;-12.1169779
+535;Avenida Juan Bielovucic Cavalier;Buena fe;-76.9816894;-12.1034626
+536;Buena fe;Avenida Juan Bielovucic Cavalier;-76.9816894;-12.1034626
+537;JirÃ³n Pacaritambo;Buena fe;-76.9815678;-12.1044377
+538;Buena fe;JirÃ³n Pacaritambo;-76.9815678;-12.1044377
+539;Avenida del Sur;JirÃ³n Monte Real;-76.9815199;-12.1117175
+540;JirÃ³n Monte Real;Avenida del Sur;-76.9815199;-12.1117175
+541;JirÃ³n Monte Real;JirÃ³n Monte Real;-76.9815199;-12.1117175
+542;Avenida Los Precursores;Pasaje Monte Cristi;-76.9814876;-12.1173136
+543;Pasaje Monte Cristi;Avenida Los Precursores;-76.9814876;-12.1173136
+544;Calle MontefrÃ­o;Monte Umbroso;-76.9814831;-12.1151643
+545;Monte Umbroso;Calle MontefrÃ­o;-76.9814831;-12.1151643
+546;Conde de La Vega;Pasaje Monte Hermoso;-76.9814507;-12.1131562
+547;Pasaje Monte Hermoso;Conde de La Vega;-76.9814507;-12.1131562
+548;Avenida del Sur;Avenida Primavera;-76.981386;-12.1105981
+549;Avenida Primavera;Avenida del Sur;-76.981386;-12.1105981
+550;JirÃ³n Monte Flor;Monte Flor;-76.9812889;-12.114824
+551;JirÃ³n Monte Flor;Monte Umbroso;-76.9812889;-12.114824
+552;Monte Flor;JirÃ³n Monte Flor;-76.9812889;-12.114824
+553;Monte Flor;Monte Umbroso;-76.9812889;-12.114824
+554;Monte Umbroso;JirÃ³n Monte Flor;-76.9812889;-12.114824
+555;Monte Umbroso;Monte Flor;-76.9812889;-12.114824
+556;Pasaje Montesco;JirÃ³n BatallÃ³n Tarma;-76.9812206;-12.1162048
+557;JirÃ³n BatallÃ³n Tarma;Pasaje Montesco;-76.9812206;-12.1162048
+558;JirÃ³n 27;Calle 10;-76.9810882;-12.0956682
+559;Calle 10;JirÃ³n 27;-76.9810882;-12.0956682
+560;Avenida Buena Vista;Intercambio Vial El Derby;-76.98105581;-12.09649639
+561;Intercambio Vial El Derby;Avenida Buena Vista;-76.98105581;-12.09649639
+562;Avenida San Borja Norte;Avenida Buena Vista;-76.9810475;-12.0965535
+563;Avenida Buena Vista;Avenida San Borja Norte;-76.9810475;-12.0965535
+564;Calle 20;Calle 20;-76.9810056;-12.0975408
+565;JirÃ³n Los Recuerdos;JirÃ³n Los Recuerdos;-76.9809975;-12.1088818
+566;JirÃ³n Los Recuerdos;JirÃ³n Mayorazgo;-76.9809975;-12.1088818
+567;JirÃ³n Mayorazgo;JirÃ³n Los Recuerdos;-76.9809975;-12.1088818
+568;JirÃ³n Los Recuerdos;JirÃ³n Pacaritambo;-76.9809905;-12.1043933
+569;JirÃ³n Pacaritambo;JirÃ³n Los Recuerdos;-76.9809905;-12.1043933
+570;Avenida Buena Vista;Calle 20;-76.9809186;-12.0973416
+571;Calle 20;Avenida Buena Vista;-76.9809186;-12.0973416
+572;JirÃ³n Los Recuerdos;Calle El Dorado;-76.9808701;-12.1052304
+573;Calle El Dorado;JirÃ³n Los Recuerdos;-76.9808701;-12.1052304
+574;Avenida Buena Vista;Hurtado;-76.9808162;-12.0980419
+575;Hurtado;Avenida Buena Vista;-76.9808162;-12.0980419
+576;JirÃ³n Los Recuerdos;Pasaje San Lucas;-76.9808067;-12.1056347
+577;Pasaje San Lucas;JirÃ³n Los Recuerdos;-76.9808067;-12.1056347
+578;Conde de La Vega;Calle Monte Real;-76.9808011;-12.1120135
+579;Conde de La Vega;JirÃ³n Monte Real;-76.9808011;-12.1120135
+580;Calle Monte Real;Conde de La Vega;-76.9808011;-12.1120135
+581;Calle Monte Real;JirÃ³n Monte Real;-76.9808011;-12.1120135
+582;JirÃ³n Monte Real;Conde de La Vega;-76.9808011;-12.1120135
+583;JirÃ³n Monte Real;Calle Monte Real;-76.9808011;-12.1120135
+584;Avenida Los Precursores;BatallÃ³n Tarma;-76.9807525;-12.1165723
+585;Avenida Los Precursores;JirÃ³n BatallÃ³n Tarma;-76.9807525;-12.1165723
+586;BatallÃ³n Tarma;Avenida Los Precursores;-76.9807525;-12.1165723
+587;JirÃ³n Los Recuerdos;JirÃ³n Hermano Lobo;-76.9807351;-12.1061018
+588;JirÃ³n Hermano Lobo;JirÃ³n Los Recuerdos;-76.9807351;-12.1061018
+589;JirÃ³n BatallÃ³n Tarma;Avenida Los Precursores;-76.9806828;-12.1166322
+590;JirÃ³n BatallÃ³n Tarma;BatallÃ³n Tarma;-76.9806828;-12.1166322
+591;BatallÃ³n Tarma;JirÃ³n BatallÃ³n Tarma;-76.9806828;-12.1166322
+592;JirÃ³n Los Recuerdos;Florecillas;-76.9806241;-12.107933
+593;Florecillas;JirÃ³n Los Recuerdos;-76.9806241;-12.107933
+594;Avenida Buena Vista;Yeves;-76.9806065;-12.0995541
+595;Yeves;Avenida Buena Vista;-76.9806065;-12.0995541
+596;Avenida Esmeralda;JirÃ³n Los Recuerdos;-76.9806057;-12.107799
+597;JirÃ³n Los Recuerdos;Avenida Esmeralda;-76.9806057;-12.107799
+598;JirÃ³n Los Recuerdos;Calle Bello Horizonte;-76.9806039;-12.1069149
+599;Calle Bello Horizonte;JirÃ³n Los Recuerdos;-76.9806039;-12.1069149
+600;Avenida Buena Vista;Sena;-76.9804802;-12.1005032
+601;Sena;Avenida Buena Vista;-76.9804802;-12.1005032
+602;Intercambio Vial El Derby;Intercambio Vial El Derby;-76.9802707;-12.0976878
+603;Avenida Buena Vista;Avenida Juan Bielovucic Cavalier;-76.9802441;-12.1033651
+604;Avenida Juan Bielovucic Cavalier;Avenida Buena Vista;-76.9802441;-12.1033651
+605;Avenida Buena Vista;Avenida Buena Vista;-76.9802345;-12.1034335
+606;Calle MontefrÃ­o;Avenida Los Precursores;-76.9802004;-12.1160198
+607;Avenida Los Precursores;Calle MontefrÃ­o;-76.9802004;-12.1160198
+608;Bielovucic Cavalier;Avenida Buena Vista;-76.9801909;-12.1030455
+609;Bielovucic Cavalier;Avenida Juan Bielovucic Cavalier;-76.9801909;-12.1030455
+610;Avenida Buena Vista;Bielovucic Cavalier;-76.9801909;-12.1030455
+611;Avenida Juan Bielovucic Cavalier;Bielovucic Cavalier;-76.9801909;-12.1030455
+612;JirÃ³n Pacaritambo;Avenida Buena Vista;-76.9801082;-12.1043253
+613;JirÃ³n Pacaritambo;JirÃ³n Pacaritambo;-76.9801082;-12.1043253
+614;Avenida Coronel Reynaldo Vivanco;JirÃ³n BatallÃ³n Tarma;-76.9800537;-12.117206
+615;JirÃ³n BatallÃ³n Tarma;Avenida Coronel Reynaldo Vivanco;-76.9800537;-12.117206
+616;JirÃ³n Pacaritambo;Ciclovia Buenavista;-76.9800422;-12.1043202
+617;Ciclovia Buenavista;JirÃ³n Pacaritambo;-76.9800422;-12.1043202
+618;Avenida Buena Vista;JirÃ³n Pacaritambo;-76.9800158;-12.1043182
+619;Avenida Buena Vista;Avenida Primavera;-76.9799998;-12.1102542
+620;Avenida Primavera;Avenida Buena Vista;-76.9799998;-12.1102542
+621;Monte Umbroso;Monte Umbroso;-76.9799968;-12.1126526
+622;Monte Umbroso;Avenida Monte Umbroso;-76.9799968;-12.1126526
+623;Avenida Monte Umbroso;Monte Umbroso;-76.9799968;-12.1126526
+624;Pasaje San Lucas;Avenida Buena Vista;-76.9799426;-12.1055204
+625;Avenida Buena Vista;Pasaje San Lucas;-76.9799426;-12.1055204
+626;Intercambio Vial El Derby;Avenida Panamericana Sur;-76.97992718;-12.09877881
+627;Avenida Panamericana Sur;Intercambio Vial El Derby;-76.97992718;-12.09877881
+628;Avenida Buena Vista;Duarez;-76.979851;-12.1088881
+629;Duarez;Avenida Buena Vista;-76.979851;-12.1088881
+630;Avenida Buena Vista;Florecillas;-76.9797768;-12.1080991
+631;Florecillas;Avenida Buena Vista;-76.9797768;-12.1080991
+632;Calle Bello Horizonte;Avenida Buena Vista;-76.9797685;-12.1068273
+633;Avenida Buena Vista;Calle Bello Horizonte;-76.9797685;-12.1068273
+634;JirÃ³n Morro Solar;Avenida Primavera;-76.9795568;-12.1103828
+635;Avenida Primavera;JirÃ³n Morro Solar;-76.9795568;-12.1103828
+636;Intercambio Vial El Derby;CristÃ³bal de la Peralta Norte;-76.97951489;-12.09887029
+637;CristÃ³bal de la Peralta Norte;Intercambio Vial El Derby;-76.97951489;-12.09887029
+638;Avenida Los Precursores;Avenida Los Precursores;-76.979424;-12.1117851
+639;Avenida Los Precursores;Pasaje Mercurio Peruano;-76.979424;-12.1117851
+640;Pasaje Mercurio Peruano;Avenida Los Precursores;-76.979424;-12.1117851
+641;Avenida Los Precursores;Calle Montego Bay;-76.9794231;-12.1152148
+642;Avenida Los Precursores;Calle Monte Real;-76.9794077;-12.1119284
+643;Calle Monte Real;Avenida Los Precursores;-76.9794077;-12.1119284
+644;Pentagonito;Avenida Panamericana Sur;-76.97937614;-12.10275921
+645;Avenida Panamericana Sur;Pentagonito;-76.97937614;-12.10275921
+646;Calle Montego Bay;Avenida Los Precursores;-76.9793552;-12.1152775
+647;Calle Montego Bay;Calle Montego Bay;-76.9793552;-12.1152775
+648;Avenida Los Precursores;Avenida Monte Umbroso;-76.9793136;-12.1125843
+649;Avenida Monte Umbroso;Avenida Los Precursores;-76.9793136;-12.1125843
+650;JirÃ³n SantorÃ­n;CristÃ³bal de la Peralta Norte;-76.9793;-12.1005099
+651;CristÃ³bal de la Peralta Norte;JirÃ³n SantorÃ­n;-76.9793;-12.1005099
+652;Avenida Los Precursores;Calle Montes de Oro;-76.9792342;-12.1131468
+653;Calle Montes de Oro;Avenida Los Precursores;-76.9792342;-12.1131468
+654;Avenida Los Precursores;Monte Flor;-76.9791584;-12.1136794
+655;Monte Flor;Avenida Los Precursores;-76.9791584;-12.1136794
+656;Avenida Los Precursores;JirÃ³n Morro Solar;-76.9791422;-12.1106079
+657;JirÃ³n Morro Solar;Avenida Los Precursores;-76.9791422;-12.1106079
+658;JirÃ³n Morro Solar;JirÃ³n Morro Solar;-76.9791422;-12.1106079
+659;Avenida Coronel Reynaldo Vivanco;Calle Monte Casino;-76.9789873;-12.116258
+660;Calle Monte Casino;Avenida Coronel Reynaldo Vivanco;-76.9789873;-12.116258
+661;Avenida Los Precursores;Pasaje Llanos Zapata;-76.9789682;-12.1143478
+662;Pasaje Llanos Zapata;Avenida Los Precursores;-76.9789682;-12.1143478
+663;Avenida La RepÃºblica;CristÃ³bal de la Peralta Norte;-76.9789109;-12.103405
+664;CristÃ³bal de la Peralta Norte;Avenida La RepÃºblica;-76.9789109;-12.103405
+665;CristÃ³bal de la Peralta Norte;CristÃ³bal de la Peralta Norte;-76.9789109;-12.103405
+666;Avenida Coronel Reynaldo Vivanco;Calle Montego Bay;-76.9787418;-12.1158554
+667;Calle Montego Bay;Avenida Coronel Reynaldo Vivanco;-76.9787418;-12.1158554
+668;JerÃ³nimo de Aliaga Norte;CristÃ³bal de la Peralta Norte;-76.9785813;-12.1058317
+669;CristÃ³bal de la Peralta Norte;JerÃ³nimo de Aliaga Norte;-76.9785813;-12.1058317
+670;Avenida La RepÃºblica;Francisco de Cuellar;-76.9784631;-12.103322
+671;Francisco de Cuellar;Avenida La RepÃºblica;-76.9784631;-12.103322
+672;Avenida Panamericana Sur;Avenida Panamericana Sur;-76.9783883;-12.1097799
+673;CristÃ³bal de la Peralta Norte;Pasaje NicolÃ¡s de Rivera;-76.9783702;-12.1074141
+674;Pasaje NicolÃ¡s de Rivera;CristÃ³bal de la Peralta Norte;-76.9783702;-12.1074141
+675;Pasaje Mercurio Peruano;JirÃ³n Morro Solar;-76.978366;-12.1117358
+676;JirÃ³n Morro Solar;Pasaje Mercurio Peruano;-76.978366;-12.1117358
+677;Avenida Primavera;Avenida Panamericana Sur;-76.9781994;-12.11013469
+678;Avenida Panamericana Sur;Avenida Primavera;-76.9781994;-12.11013469
+679;Calle Montes de Oro;JirÃ³n Morro Solar;-76.9781579;-12.1129896
+680;JirÃ³n Morro Solar;Calle Montes de Oro;-76.9781579;-12.1129896
+681;JirÃ³n SantorÃ­n;La Colonia;-76.9780737;-12.100361
+682;La Colonia;JirÃ³n SantorÃ­n;-76.9780737;-12.100361
+683;Pasaje Llanos Zapata;JirÃ³n Morro Solar;-76.9779766;-12.1142406
+684;JirÃ³n Morro Solar;Pasaje Llanos Zapata;-76.9779766;-12.1142406
+685;Avenida Coronel Reynaldo Vivanco;Avenida Coronel Reynaldo Vivanco;-76.9779635;-12.1152106
+686;Avenida Coronel Reynaldo Vivanco;JirÃ³n Morro Solar;-76.9778586;-12.1149463
+687;JirÃ³n Morro Solar;Avenida Coronel Reynaldo Vivanco;-76.9778586;-12.1149463
+688;Avenida Panamericana Sur;Paradero;-76.9778508;-12.1125924
+689;Paradero;Avenida Panamericana Sur;-76.9778508;-12.1125924
+690;Avenida La RepÃºblica;La Colonia;-76.9777094;-12.1031795
+691;La Colonia;Avenida La RepÃºblica;-76.9777094;-12.1031795
+692;Pedro de Candia;Pasaje NicolÃ¡s de Rivera;-76.9777053;-12.1073355
+693;Pasaje NicolÃ¡s de Rivera;Pedro de Candia;-76.9777053;-12.1073355
+694;Cristobal de Peralta Sur;Cristobal de Peralta Sur;-76.9776337;-12.1125543
+695;JirÃ³n Morro Solar;Calle Monte Casino;-76.977591;-12.1167905
+696;Calle Monte Casino;JirÃ³n Morro Solar;-76.977591;-12.1167905
+697;Martin de Paz;Cristobal de Peralta Sur;-76.9775801;-12.112923
+698;Cristobal de Peralta Sur;Martin de Paz;-76.9775801;-12.112923
+699;Avenida Primavera;Cristobal de Peralta Sur;-76.9774159;-12.1102154
+700;Cristobal de Peralta Sur;Avenida Primavera;-76.9774159;-12.1102154
+701;Avenida Primavera;CristÃ³bal de la Peralta Norte;-76.9773787;-12.1100772
+702;CristÃ³bal de la Peralta Norte;Avenida Primavera;-76.9773787;-12.1100772
+703;JirÃ³n Alonso de Molina;Cristobal de Peralta Sur;-76.977377;-12.1144749
+704;Cristobal de Peralta Sur;JirÃ³n Alonso de Molina;-76.977377;-12.1144749
+705;Intercambio Vial El Derby;Avenida El Derby;-76.9772438;-12.0985598
+706;Avenida El Derby;Intercambio Vial El Derby;-76.9772438;-12.0985598
+707;Avenida La RepÃºblica;Avenida La RepÃºblica;-76.9772274;-12.1023421
+708;Esparceta;Cristobal de Peralta Sur;-76.9771144;-12.1163918
+709;Cristobal de Peralta Sur;Esparceta;-76.9771144;-12.1163918
+710;JerÃ³nimo de Aliaga Norte;Torre;-76.9770877;-12.1070179
+711;Torre;JerÃ³nimo de Aliaga Norte;-76.9770877;-12.1070179
+712;JerÃ³nimo de Aliaga Norte;Garcia de Salcedo;-76.9770118;-12.1075357
+713;Garcia de Salcedo;JerÃ³nimo de Aliaga Norte;-76.9770118;-12.1075357
+714;Avenida Buganvilla;Cristobal de Peralta Sur;-76.976999;-12.1173619
+715;Cristobal de Peralta Sur;Avenida Buganvilla;-76.976999;-12.1173619
+716;Martin de Paz;Diego de AgÃ¼ero;-76.9769284;-12.1128534
+717;Diego de AgÃ¼ero;Martin de Paz;-76.9769284;-12.1128534
+718;JerÃ³nimo de Aliaga Norte;Pedro de Candia;-76.9767594;-12.109325
+719;Pedro de Candia;JerÃ³nimo de Aliaga Norte;-76.9767594;-12.109325
+720;Pedro de Candia;Pedro de Candia;-76.9767594;-12.109325
+721;JirÃ³n El Incario;Avenida La RepÃºblica;-76.9767379;-12.101153
+722;Avenida La RepÃºblica;JirÃ³n El Incario;-76.9767379;-12.101153
+723;JirÃ³n Alonso de Molina;Diego de AgÃ¼ero;-76.9767004;-12.1143706
+724;Diego de AgÃ¼ero;JirÃ³n Alonso de Molina;-76.9767004;-12.1143706
+725;JerÃ³nimo de Aliaga Norte;Avenida Primavera;-76.9766621;-12.1100269
+726;Avenida Primavera;JerÃ³nimo de Aliaga Norte;-76.9766621;-12.1100269
+727;JerÃ³nimo de Aliaga Sur;Avenida Primavera;-76.976656;-12.1101544
+728;Avenida Primavera;JerÃ³nimo de Aliaga Sur;-76.976656;-12.1101544
+729;JerÃ³nimo de Aliaga Sur;Diego de AgÃ¼ero;-76.9765812;-12.1108605
+730;Diego de AgÃ¼ero;JerÃ³nimo de Aliaga Sur;-76.9765812;-12.1108605
+731;JirÃ³n Bartolome Ruiz;JerÃ³nimo de Aliaga Sur;-76.9765172;-12.111455
+732;JerÃ³nimo de Aliaga Sur;JirÃ³n Bartolome Ruiz;-76.9765172;-12.111455
+733;Avenida Buganvilla;Avenida JacarandÃ¡;-76.9764536;-12.1172134
+734;Avenida JacarandÃ¡;Avenida Buganvilla;-76.9764536;-12.1172134
+735;JirÃ³n SantorÃ­n;Avenida La RepÃºblica;-76.9764198;-12.1001385
+736;Avenida La RepÃºblica;JirÃ³n SantorÃ­n;-76.9764198;-12.1001385
+737;Esparceta;Los Albaricoques;-76.9763866;-12.115986
+738;Los Albaricoques;Esparceta;-76.9763866;-12.115986
+739;JerÃ³nimo de Aliaga Sur;Martin de Paz;-76.9762962;-12.1127858
+740;JerÃ³nimo de Aliaga Sur;JerÃ³nimo de Aliaga Sur;-76.9762962;-12.1127858
+741;Martin de Paz;JerÃ³nimo de Aliaga Sur;-76.9762962;-12.1127858
+742;JerÃ³nimo de Aliaga Sur;Calle MartÃ­n Pizarro;-76.9761553;-12.1136163
+743;Calle MartÃ­n Pizarro;JerÃ³nimo de Aliaga Sur;-76.9761553;-12.1136163
+744;Francisco de Cuellar;GonzÃ¡lo MartÃ­n de Trujillo;-76.9761049;-12.1057373
+745;GonzÃ¡lo MartÃ­n de Trujillo;Francisco de Cuellar;-76.9761049;-12.1057373
+746;JerÃ³nimo de Aliaga Sur;JirÃ³n Alonso de Molina;-76.9760567;-12.114292
+747;JirÃ³n Alonso de Molina;JerÃ³nimo de Aliaga Sur;-76.9760567;-12.114292
+748;JirÃ³n EmancipaciÃ³n;JirÃ³n La Conquista;-76.975889;-12.1036355
+749;JirÃ³n La Conquista;JirÃ³n EmancipaciÃ³n;-76.975889;-12.1036355
+750;Alameda La Allamanda;Avenida Buganvilla;-76.9758421;-12.1168043
+751;Avenida Buganvilla;Alameda La Allamanda;-76.9758421;-12.1168043
+752;Esparceta;JerÃ³nimo de Aliaga Sur;-76.9757562;-12.1155717
+753;JerÃ³nimo de Aliaga Sur;Esparceta;-76.9757562;-12.1155717
+754;Garcia de Salcedo;Pedro de Candia;-76.9757401;-12.1092484
+755;Pedro de Candia;Garcia de Salcedo;-76.9757401;-12.1092484
+756;Avenida La RepÃºblica;Avenida El Derby;-76.9757367;-12.0983696
+757;Avenida El Derby;Avenida La RepÃºblica;-76.9757367;-12.0983696
+758;GonzÃ¡lo MartÃ­n de Trujillo;Los Araucanos;-76.9757187;-12.1054016
+759;Los Araucanos;GonzÃ¡lo MartÃ­n de Trujillo;-76.9757187;-12.1054016
+760;Las Palmas;JirÃ³n Alonso de Molina;-76.9756489;-12.1141241
+761;JirÃ³n Alonso de Molina;Las Palmas;-76.9756489;-12.1141241
+762;Torre;Calle 4;-76.9754988;-12.1082602
+763;Torre;Torre;-76.9754988;-12.1082602
+764;Calle 4;Torre;-76.9754988;-12.1082602
+765;Las Palmas;Calle Los Alerces;-76.9754076;-12.1145123
+766;Calle Los Alerces;Las Palmas;-76.9754076;-12.1145123
+767;JirÃ³n Bartolome Ruiz;Calle MartÃ­n Pizarro;-76.9753706;-12.1131524
+768;Calle MartÃ­n Pizarro;JirÃ³n Bartolome Ruiz;-76.9753706;-12.1131524
+769;Avenida Buganvilla;JerÃ³nimo de Aliaga Sur;-76.9753271;-12.1163034
+770;JerÃ³nimo de Aliaga Sur;Avenida Buganvilla;-76.9753271;-12.1163034
+771;Francisco de Cuellar;Los Apaches;-76.9752944;-12.1065729
+772;Los Apaches;Francisco de Cuellar;-76.9752944;-12.1065729
+773;Avenida Buganvilla;Madre Selva;-76.9751839;-12.1163269
+774;Madre Selva;Avenida Buganvilla;-76.9751839;-12.1163269
+775;Las Palmas;Los Cactus;-76.9751715;-12.1149686
+776;Los Cactus;Las Palmas;-76.9751715;-12.1149686
+777;JirÃ³n El Incario;JirÃ³n La Conquista;-76.97517;-12.1017666
+778;JirÃ³n La Conquista;JirÃ³n El Incario;-76.97517;-12.1017666
+779;Pedro de Candia;Torre;-76.9751618;-12.109202
+780;Torre;Pedro de Candia;-76.9751618;-12.109202
+781;JirÃ³n Domingo de la Presa;JirÃ³n Domingo de la Presa;-76.9751449;-12.1121733
+782;JirÃ³n Domingo de la Presa;Patapo;-76.9751449;-12.1121733
+783;Patapo;JirÃ³n Domingo de la Presa;-76.9751449;-12.1121733
+784;Francisco de Cuellar;JirÃ³n Cartavio;-76.9751447;-12.1067391
+785;JirÃ³n Cartavio;Francisco de Cuellar;-76.9751447;-12.1067391
+786;Calle 4;JirÃ³n Cartavio;-76.9751179;-12.1078825
+787;JirÃ³n Cartavio;Calle 4;-76.9751179;-12.1078825
+788;JirÃ³n EmancipaciÃ³n;GonzÃ¡lo MartÃ­n de Trujillo;-76.9750106;-12.1039854
+789;GonzÃ¡lo MartÃ­n de Trujillo;JirÃ³n EmancipaciÃ³n;-76.9750106;-12.1039854
+790;Avenida Primavera;Avenida El Polo;-76.9749921;-12.1099123
+791;Avenida El Polo;Avenida Primavera;-76.9749921;-12.1099123
+792;JirÃ³n Domingo de la Presa;Calle MartÃ­n Pizarro;-76.9749826;-12.1125548
+793;Calle MartÃ­n Pizarro;JirÃ³n Domingo de la Presa;-76.9749826;-12.1125548
+794;JirÃ³n Pucala;Avenida Primavera;-76.9749822;-12.1100446
+795;JirÃ³n Pucala;Avenida El Polo;-76.9749822;-12.1100446
+796;Avenida Primavera;JirÃ³n Pucala;-76.9749822;-12.1100446
+797;Avenida El Polo;JirÃ³n Pucala;-76.9749822;-12.1100446
+798;JirÃ³n Pucala;Paramonga;-76.9749385;-12.1106037
+799;Paramonga;JirÃ³n Pucala;-76.9749385;-12.1106037
+800;Los Araucanos;Los Apaches;-76.9749092;-12.1062186
+801;Los Apaches;Los Araucanos;-76.9749092;-12.1062186
+802;Pedro de Candia;Avenida El Polo;-76.9748352;-12.1092799
+803;Avenida El Polo;Pedro de Candia;-76.9748352;-12.1092799
+804;Avenida Buganvilla;Las Palmas;-76.9746222;-12.1159145
+805;Las Palmas;Avenida Buganvilla;-76.9746222;-12.1159145
+806;JirÃ³n Alonso de Molina;JirÃ³n Domingo de la Presa;-76.9745962;-12.1133398
+807;JirÃ³n Domingo de la Presa;JirÃ³n Alonso de Molina;-76.9745962;-12.1133398
+808;JirÃ³n Pucala;Patapo;-76.974566;-12.1119199
+809;Patapo;JirÃ³n Pucala;-76.974566;-12.1119199
+810;Francisco de Cuellar;Calle 4;-76.9745493;-12.1073475
+811;Calle 4;Francisco de Cuellar;-76.9745493;-12.1073475
+812;JirÃ³n Cartavio;Avenida El Polo;-76.974513;-12.1084442
+813;JirÃ³n Cartavio;JirÃ³n Cartavio;-76.974513;-12.1084442
+814;Avenida El Polo;JirÃ³n Cartavio;-76.974513;-12.1084442
+815;JirÃ³n EmancipaciÃ³n;Avenida Manuel Olguin;-76.9744437;-12.1042004
+816;Avenida Manuel Olguin;JirÃ³n EmancipaciÃ³n;-76.9744437;-12.1042004
+817;Los Olivos;Calle Los Alerces;-76.974442;-12.1138881
+818;Calle Los Alerces;Los Olivos;-76.974442;-12.1138881
+819;Pomalca;Avenida Primavera;-76.9743255;-12.1098689
+820;Avenida Primavera;Pomalca;-76.9743255;-12.1098689
+821;JirÃ³n Alonso de Molina;Las Casuarinas;-76.9742808;-12.1131383
+822;Las Casuarinas;JirÃ³n Alonso de Molina;-76.9742808;-12.1131383
+823;Los Olivos;Los Cactus;-76.9742168;-12.114348
+824;Los Cactus;Los Olivos;-76.9742168;-12.114348
+825;Pomalca;Casa Grande;-76.9742162;-12.1092309
+826;Casa Grande;Pomalca;-76.9742162;-12.1092309
+827;Francisco de Cuellar;Avenida El Polo;-76.9742161;-12.1076964
+828;Avenida El Polo;Francisco de Cuellar;-76.9742161;-12.1076964
+829;Las Casuarinas;Avenida La Encalada;-76.974216;-12.1130835
+830;Avenida La Encalada;Las Casuarinas;-76.974216;-12.1130835
+831;Avenida La Encalada;JirÃ³n Alonso de Molina;-76.9740217;-12.1129485
+832;JirÃ³n Alonso de Molina;Avenida La Encalada;-76.9740217;-12.1129485
+833;Calle Los Alerces;Las Casuarinas;-76.9740073;-12.113661
+834;Las Casuarinas;Calle Los Alerces;-76.9740073;-12.113661
+835;JirÃ³n Pucala;Pucala;-76.9739863;-12.1126136
+836;JirÃ³n Pucala;Avenida La Encalada;-76.9739863;-12.1126136
+837;Pucala;JirÃ³n Pucala;-76.9739863;-12.1126136
+838;Avenida La Encalada;JirÃ³n Pucala;-76.9739863;-12.1126136
+839;Pomalca;JirÃ³n Cartavio;-76.9739813;-12.1086238
+840;JirÃ³n Cartavio;Pomalca;-76.9739813;-12.1086238
+841;Calle Quilla;Avenida El Polo;-76.9739144;-12.1069363
+842;Avenida El Polo;Calle Quilla;-76.9739144;-12.1069363
+843;Avenida La Encalada;Pucala;-76.9738774;-12.1126526
+844;Pucala;Avenida La Encalada;-76.9738774;-12.1126526
+845;Alfredo Rosenblat;Las Casuarinas;-76.9738555;-12.1139501
+846;Las Casuarinas;Alfredo Rosenblat;-76.9738555;-12.1139501
+847;Paramonga;Patapo;-76.973798;-12.1105317
+848;Patapo;Paramonga;-76.973798;-12.1105317
+849;Calle Los Apaches;Avenida El Polo;-76.9737741;-12.1065827
+850;Avenida El Polo;Calle Los Apaches;-76.9737741;-12.1065827
+851;Avenida Buganvilla;Los Olivos;-76.97372;-12.1151421
+852;Los Olivos;Avenida Buganvilla;-76.97372;-12.1151421
+853;JirÃ³n Alonso de Molina;Pucala;-76.9736977;-12.112708
+854;JirÃ³n Alonso de Molina;JirÃ³n Alonso de Molina;-76.9736977;-12.112708
+855;Pucala;JirÃ³n Alonso de Molina;-76.9736977;-12.112708
+856;JirÃ³n El Cortijo;Avenida Manuel Olguin;-76.9735865;-12.0957743
+857;Avenida Manuel Olguin;JirÃ³n El Cortijo;-76.9735865;-12.0957743
+858;JirÃ³n El Incario;Avenida Manuel Olguin;-76.9735534;-12.1018737
+859;Avenida Manuel Olguin;JirÃ³n El Incario;-76.9735534;-12.1018737
+860;Mariano Rivero y Ustariz;Las Casuarinas;-76.9734964;-12.1146361
+861;Las Casuarinas;Mariano Rivero y Ustariz;-76.9734964;-12.1146361
+862;Pomalca;Calle Quilla;-76.9733769;-12.1071314
+863;Calle Quilla;Pomalca;-76.9733769;-12.1071314
+864;Avenida Manuel Olguin;Avenida El Derby;-76.9733757;-12.0980613
+865;Avenida Buganvilla;Las Casuarinas;-76.9733228;-12.1149745
+866;Las Casuarinas;Avenida Buganvilla;-76.9733228;-12.1149745
+867;Avenida La Encalada;Chavin;-76.9733136;-12.1112574
+868;Chavin;Avenida La Encalada;-76.9733136;-12.1112574
+869;Avenida El Derby;Avenida Manuel Olguin;-76.9732791;-12.0979439
+870;Avenida El Derby;Avenida El Derby;-76.9732791;-12.0979439
+871;Don Diego de DÃ­a;JirÃ³n Alonso de Molina;-76.9732598;-12.1123924
+872;JirÃ³n Alonso de Molina;Don Diego de DÃ­a;-76.9732598;-12.1123924
+873;Sintuco;Avenida El Polo;-76.9732242;-12.1051973
+874;Avenida El Polo;Sintuco;-76.9732242;-12.1051973
+875;Avenida Manuel Olguin;JirÃ³n La Conquista;-76.9731448;-12.0994811
+876;Avenida La Encalada;Paramonga;-76.9730998;-12.110729
+877;Paramonga;Avenida La Encalada;-76.9730998;-12.110729
+878;Paramonga;Paramonga;-76.9730998;-12.110729
+879;JirÃ³n EmancipaciÃ³n;Avenida El Polo;-76.9730409;-12.1047357
+880;Avenida El Polo;JirÃ³n EmancipaciÃ³n;-76.9730409;-12.1047357
+881;Pomalca;San Luis;-76.9730257;-12.1062639
+882;San Luis;Pomalca;-76.9730257;-12.1062639
+883;JirÃ³n El Cortijo;Los Alamos;-76.9730237;-12.0959844
+884;Los Alamos;JirÃ³n El Cortijo;-76.9730237;-12.0959844
+885;Avenida Manuel Olguin;Avenida Manuel Olguin;-76.9729869;-12.1004901
+886;Laredo;JirÃ³n Cartavio;-76.9729741;-12.1086155
+887;JirÃ³n Cartavio;Laredo;-76.9729741;-12.1086155
+888;Mariano Rivero y Ustariz;Carlos Monge Medrano;-76.9729721;-12.1142797
+889;Carlos Monge Medrano;Mariano Rivero y Ustariz;-76.9729721;-12.1142797
+890;Pomalca;El Milagro;-76.972831;-12.1057831
+891;El Milagro;Pomalca;-76.972831;-12.1057831
+892;Avenida Primavera;Avenida La Encalada;-76.9728208;-12.1097587
+893;Godofredo Garcia Diaz;Las Casuarinas;-76.9727601;-12.1160389
+894;Las Casuarinas;Godofredo Garcia Diaz;-76.9727601;-12.1160389
+895;Avenida La Encalada;Avenida La Encalada;-76.9727595;-12.1098824
+896;Avenida La Encalada;Avenida Primavera;-76.9727595;-12.1098824
+897;Mariano Rivero y Ustariz;Calle Arturo Alcade Mongrut;-76.9727489;-12.1141221
+898;Calle Arturo Alcade Mongrut;Mariano Rivero y Ustariz;-76.9727489;-12.1141221
+899;Don Diego de DÃ­a;Alfredo Rosenblat;-76.9727152;-12.1131652
+900;Alfredo Rosenblat;Don Diego de DÃ­a;-76.9727152;-12.1131652
+901;Pomalca;Sintuco;-76.9726747;-12.1053973
+902;Sintuco;Pomalca;-76.9726747;-12.1053973
+903;Chavin;JirÃ³n Alonso de Molina;-76.9726556;-12.1119336
+904;JirÃ³n Alonso de Molina;Chavin;-76.9726556;-12.1119336
+905;Avenida El Polo;JirÃ³n Cayalti;-76.9726511;-12.1037535
+906;JirÃ³n Cayalti;Avenida El Polo;-76.9726511;-12.1037535
+907;JirÃ³n La Conquista;Avenida Manuel Olguin;-76.9726295;-12.0995306
+908;Casa Grande;Avenida La Encalada;-76.9726259;-12.1093023
+909;Avenida La Encalada;Casa Grande;-76.9726259;-12.1093023
+910;Calle El Parral;Los Alamos;-76.9726181;-12.0949741
+911;Los Alamos;Calle El Parral;-76.9726181;-12.0949741
+912;Las Casuarinas;Pulla Raymondi;-76.9724934;-12.1165563
+913;Las Casuarinas;Balsamina;-76.9724934;-12.1165563
+914;Pulla Raymondi;Las Casuarinas;-76.9724934;-12.1165563
+915;Pulla Raymondi;Balsamina;-76.9724934;-12.1165563
+916;Balsamina;Las Casuarinas;-76.9724934;-12.1165563
+917;Balsamina;Pulla Raymondi;-76.9724934;-12.1165563
+918;Paramonga;San Martin;-76.9724645;-12.1112047
+919;San Martin;Paramonga;-76.9724645;-12.1112047
+920;Avenida La Encalada;Pasaje J. NepeÃ±a;-76.9724307;-12.1091155
+921;Pasaje J. NepeÃ±a;Avenida La Encalada;-76.9724307;-12.1091155
+922;El Milagro;Wari;-76.972426;-12.1059497
+923;Wari;El Milagro;-76.972426;-12.1059497
+924;Pomalca;Barraza;-76.9724144;-12.1047543
+925;Barraza;Pomalca;-76.9724144;-12.1047543
+926;JirÃ³n Cartavio;Avenida La Encalada;-76.9723813;-12.1087339
+927;Avenida La Encalada;JirÃ³n Cartavio;-76.9723813;-12.1087339
+928;Pomalca;Pomalca;-76.9723069;-12.1044889
+929;Aymaras;Avenida El Derby;-76.9722659;-12.0982449
+930;Avenida El Derby;Aymaras;-76.9722659;-12.0982449
+931;Don Diego de DÃ­a;Mariano Rivero y Ustariz;-76.9722607;-12.113759
+932;Mariano Rivero y Ustariz;Don Diego de DÃ­a;-76.9722607;-12.113759
+933;Paramonga;JirÃ³n Alonso de Molina;-76.9721675;-12.1115856
+934;JirÃ³n Alonso de Molina;Paramonga;-76.9721675;-12.1115856
+935;Carlos Monge Medrano;Godofredo Garcia Diaz;-76.9721634;-12.115743
+936;Godofredo Garcia Diaz;Carlos Monge Medrano;-76.9721634;-12.115743
+937;Laredo;San Luis;-76.972158;-12.1066042
+938;San Luis;Laredo;-76.972158;-12.1066042
+939;Pomalca;JirÃ³n Cayalti;-76.9721406;-12.1040431
+940;JirÃ³n Cayalti;Pomalca;-76.9721406;-12.1040431
+941;JirÃ³n El Incario;Avenida El Polo;-76.9721283;-12.1024239
+942;JirÃ³n El Incario;Calle Padre Luis Tezza;-76.9721283;-12.1024239
+943;Avenida El Polo;JirÃ³n El Incario;-76.9721283;-12.1024239
+944;Avenida El Polo;Calle Padre Luis Tezza;-76.9721283;-12.1024239
+945;Calle Padre Luis Tezza;JirÃ³n El Incario;-76.9721283;-12.1024239
+946;Calle Padre Luis Tezza;Avenida El Polo;-76.9721283;-12.1024239
+947;San Martin;Santo Domingo;-76.9720655;-12.110909
+948;Santo Domingo;San Martin;-76.9720655;-12.110909
+949;Avenida Tomasal;Las Casuarinas;-76.9720375;-12.1172812
+950;Las Casuarinas;Avenida Tomasal;-76.9720375;-12.1172812
+951;Barraza;Wari;-76.9719851;-12.1049138
+952;Wari;Barraza;-76.9719851;-12.1049138
+953;Laredo;El Milagro;-76.9719689;-12.1061378
+954;El Milagro;Laredo;-76.9719689;-12.1061378
+955;Avenida La Encalada;Alamo;-76.9719608;-12.1079646
+956;Alamo;Avenida La Encalada;-76.9719608;-12.1079646
+957;Carlos Monge Medrano;Calle Arturo Alcade Mongrut;-76.9718987;-12.1162557
+958;Calle Arturo Alcade Mongrut;Carlos Monge Medrano;-76.9718987;-12.1162557
+959;JirÃ³n El Cortijo;Los Eucaliptos;-76.9718569;-12.0964232
+960;Los Eucaliptos;JirÃ³n El Cortijo;-76.9718569;-12.0964232
+961;Pasaje El Molino;Pasaje J. NepeÃ±a;-76.9718431;-12.1093372
+962;Pasaje J. NepeÃ±a;Pasaje El Molino;-76.9718431;-12.1093372
+963;Pasaje J. NepeÃ±a;Pasaje J. NepeÃ±a;-76.9718431;-12.1093372
+964;SebastiÃ¡n Barranca;Calle Arturo Alcade Mongrut;-76.9718186;-12.1153943
+965;Calle Arturo Alcade Mongrut;SebastiÃ¡n Barranca;-76.9718186;-12.1153943
+966;Laredo;Canelo;-76.9717859;-12.1056867
+967;Canelo;Laredo;-76.9717859;-12.1056867
+968;Don Diego de DÃ­a;SeÃ±or de Sipan;-76.9717756;-12.1144082
+969;SeÃ±or de Sipan;Don Diego de DÃ­a;-76.9717756;-12.1144082
+970;Calle MarÃ­a Luisa;Avenida La Encalada;-76.9717655;-12.1074725
+971;Avenida La Encalada;Calle MarÃ­a Luisa;-76.9717655;-12.1074725
+972;San Luis;Avenida La Encalada;-76.9716076;-12.10682
+973;Avenida La Encalada;San Luis;-76.9716076;-12.10682
+974;Pasaje El Molino;Pasaje El Molino;-76.9716051;-12.1086956
+975;Alfredo Rosenblat;Paramonga;-76.971596;-12.1123558
+976;Paramonga;Alfredo Rosenblat;-76.971596;-12.1123558
+977;Pasaje El Molino;Pasaje La Pascana;-76.9715951;-12.1086578
+978;Pasaje La Pascana;Pasaje El Molino;-76.9715951;-12.1086578
+979;Pasaje J. NepeÃ±a;Avenida Primavera;-76.9715784;-12.1094193
+980;Avenida Primavera;Pasaje J. NepeÃ±a;-76.9715784;-12.1094193
+981;JirÃ³n El Cortijo;Aymaras;-76.9715781;-12.0965261
+982;Aymaras;JirÃ³n El Cortijo;-76.9715781;-12.0965261
+983;Laredo;Barraza;-76.9715463;-12.1050963
+984;Barraza;Laredo;-76.9715463;-12.1050963
+985;Avenida Tomasal;Carlos Monge Medrano;-76.9715288;-12.1169326
+986;Carlos Monge Medrano;Avenida Tomasal;-76.9715288;-12.1169326
+987;Tambo Real;Avenida Primavera;-76.9714744;-12.1095056
+988;Avenida Primavera;Tambo Real;-76.9714744;-12.1095056
+989;Alamo;Pasaje El Molino;-76.9714292;-12.10817
+990;Pasaje El Molino;Alamo;-76.9714292;-12.10817
+991;Calle El Parral;Los Eucaliptos;-76.9713735;-12.0952101
+992;Los Eucaliptos;Calle El Parral;-76.9713735;-12.0952101
+993;Tambo Real;Santo Domingo;-76.9713501;-12.1102035
+994;Santo Domingo;Tambo Real;-76.9713501;-12.1102035
+995;Laredo;JirÃ³n Cayalti;-76.9713375;-12.1045815
+996;JirÃ³n Cayalti;Laredo;-76.9713375;-12.1045815
+997;Don Diego de DÃ­a;SebastiÃ¡n Barranca;-76.9713275;-12.1150078
+998;SebastiÃ¡n Barranca;Don Diego de DÃ­a;-76.9713275;-12.1150078
+999;Calle Los Tulipanes;Avenida El Polo;-76.9712979;-12.1003681
+1000;Avenida El Polo;Calle Los Tulipanes;-76.9712979;-12.1003681
+1001;El Carmelo;Avenida La Encalada;-76.9712206;-12.1061649
+1002;Avenida La Encalada;El Carmelo;-76.9712206;-12.1061649
+1003;Calle MarÃ­a Luisa;Los Vinzos;-76.9712191;-12.1076906
+1004;Los Vinzos;Calle MarÃ­a Luisa;-76.9712191;-12.1076906
+1005;Canelo;Avenida La Encalada;-76.9712172;-12.1058961
+1006;Avenida La Encalada;Canelo;-76.9712172;-12.1058961
+1007;JirÃ³n La Conquista;Avenida El Polo;-76.9711913;-12.100071
+1008;Avenida El Polo;JirÃ³n La Conquista;-76.9711913;-12.100071
+1009;Mariano Rivero y Ustariz;Paramonga;-76.9710999;-12.112986
+1010;Paramonga;Mariano Rivero y Ustariz;-76.9710999;-12.112986
+1011;San Ignacio;Alamo;-76.9710641;-12.108399
+1012;Alamo;San Ignacio;-76.9710641;-12.108399
+1013;Tambo Real;Avenida Tambo Real;-76.9710597;-12.1107883
+1014;Tambo Real;JirÃ³n Alonso de Molina;-76.9710597;-12.1107883
+1015;Avenida Tambo Real;Tambo Real;-76.9710597;-12.1107883
+1016;Avenida Tambo Real;JirÃ³n Alonso de Molina;-76.9710597;-12.1107883
+1017;JirÃ³n Alonso de Molina;Tambo Real;-76.9710597;-12.1107883
+1018;JirÃ³n Alonso de Molina;Avenida Tambo Real;-76.9710597;-12.1107883
+1019;SeÃ±or de Sipan;Las Laderas de las Casuarinas;-76.9710593;-12.1138817
+1020;Las Laderas de las Casuarinas;SeÃ±or de Sipan;-76.9710593;-12.1138817
+1021;Boulevard;Avenida El Polo;-76.9709923;-12.0996026
+1022;Avenida El Polo;Boulevard;-76.9709923;-12.0996026
+1023;San Jacinto;Avenida La Encalada;-76.9709815;-12.1055686
+1024;Avenida La Encalada;San Jacinto;-76.9709815;-12.1055686
+1025;JirÃ³n Cayalti;Avenida La Encalada;-76.970731;-12.1049785
+1026;JirÃ³n Cayalti;JirÃ³n Cayalti;-76.970731;-12.1049785
+1027;Avenida La Encalada;JirÃ³n Cayalti;-76.970731;-12.1049785
+1028;Avenida La Encalada;Calle Padre Luis Tezza;-76.9707247;-12.1030053
+1029;Calle Padre Luis Tezza;Avenida La Encalada;-76.9707247;-12.1030053
+1030;Avenida El Derby;Avenida El Polo;-76.9706967;-12.0988557
+1031;El Carmelo;Los Vinzos;-76.9706965;-12.106432
+1032;Los Vinzos;El Carmelo;-76.9706965;-12.106432
+1033;San Ignacio;Calle MarÃ­a Luisa;-76.9706741;-12.1080991
+1034;Calle MarÃ­a Luisa;San Ignacio;-76.9706741;-12.1080991
+1035;SeÃ±or de Sipan;Paramonga;-76.9706627;-12.1135734
+1036;Paramonga;SeÃ±or de Sipan;-76.9706627;-12.1135734
+1037;Avenida El Polo;Avenida El Derby;-76.9706577;-12.0987571
+1038;Alamo;Avenida Primavera;-76.9706248;-12.1089525
+1039;Avenida Primavera;Alamo;-76.9706248;-12.1089525
+1040;Alfredo Rosenblat;Avenida Tambo Real;-76.9704875;-12.1115639
+1041;Avenida Tambo Real;Alfredo Rosenblat;-76.9704875;-12.1115639
+1042;JirÃ³n AldebarÃ¡n;Avenida La Encalada;-76.9704488;-12.1035358
+1043;Avenida La Encalada;JirÃ³n AldebarÃ¡n;-76.9704488;-12.1035358
+1044;Los Alamos;Avenida La Encalada;-76.9703846;-12.1038469
+1045;Avenida La Encalada;Los Alamos;-76.9703846;-12.1038469
+1046;San Jacinto;Aracari;-76.9702524;-12.1060209
+1047;Aracari;San Jacinto;-76.9702524;-12.1060209
+1048;Alamo;JirÃ³n Tuman;-76.9702265;-12.1094776
+1049;JirÃ³n Tuman;Alamo;-76.9702265;-12.1094776
+1050;Avenida Tomasal;Las Laderas de las Casuarinas;-76.9700721;-12.1152078
+1051;Las Laderas de las Casuarinas;Avenida Tomasal;-76.9700721;-12.1152078
+1052;Las Laderas de las Casuarinas;Don Diego de Noche;-76.9700721;-12.1152078
+1053;Don Diego de Noche;Las Laderas de las Casuarinas;-76.9700721;-12.1152078
+1054;Calle Los Tulipanes;Avenida La Encalada;-76.9699354;-12.1008981
+1055;Avenida La Encalada;Calle Los Tulipanes;-76.9699354;-12.1008981
+1056;Avenida La Encalada;Avenida El Polo;-76.9699104;-12.096865
+1057;Alamo;JirÃ³n Alonso de Molina;-76.9698804;-12.1099348
+1058;JirÃ³n Alonso de Molina;Alamo;-76.9698804;-12.1099348
+1059;JirÃ³n Cayalti;Aracari;-76.9698777;-12.1056585
+1060;Aracari;JirÃ³n Cayalti;-76.9698777;-12.1056585
+1061;Avenida El Polo;JirÃ³n El Cortijo;-76.9697788;-12.0971015
+1062;Avenida El Polo;Avenida La Encalada;-76.9697788;-12.0971015
+1063;JirÃ³n El Cortijo;Avenida El Polo;-76.9697788;-12.0971015
+1064;JirÃ³n El Cortijo;Avenida La Encalada;-76.9697788;-12.0971015
+1065;San Ignacio;El Carmelo;-76.9697154;-12.1074055
+1066;El Carmelo;San Ignacio;-76.9697154;-12.1074055
+1067;Boulevard;Avenida La Encalada;-76.9696322;-12.1001244
+1068;Avenida La Encalada;Boulevard;-76.9696322;-12.1001244
+1069;SeÃ±or de Sipan;Avenida Tambo Real;-76.9696188;-12.1127138
+1070;Avenida Tambo Real;SeÃ±or de Sipan;-76.9696188;-12.1127138
+1071;Calle La Ameda;JirÃ³n Alonso de Molina;-76.9695959;-12.1097255
+1072;JirÃ³n Alonso de Molina;Calle La Ameda;-76.9695959;-12.1097255
+1073;Avenida La Encalada;JirÃ³n El Cortijo;-76.969464;-12.0978046
+1074;Avenida Tomasal;Don Diego de Noche;-76.9694534;-12.1144125
+1075;Don Diego de Noche;Avenida Tomasal;-76.9694534;-12.1144125
+1076;Avenida Primavera;Avenida Tomasal;-76.969434;-12.1080888
+1077;Avenida Tomasal;Avenida Primavera;-76.969434;-12.1080888
+1078;JirÃ³n Cayalti;Calle Zinnia;-76.9693196;-12.1061693
+1079;Calle Zinnia;JirÃ³n Cayalti;-76.9693196;-12.1061693
+1080;San Ignacio;San Jacinto;-76.9693091;-12.1069516
+1081;San Jacinto;San Ignacio;-76.9693091;-12.1069516
+1082;Avenida Primavera;Santa Elena Norte;-76.9692416;-12.1078046
+1083;Santa Elena Norte;Avenida Primavera;-76.9692416;-12.1078046
+1084;Avenida Lima Polo;Avenida La Encalada;-76.9692345;-12.0990933
+1085;Avenida Lima Polo;Avenida El Derby;-76.9692345;-12.0990933
+1086;Avenida La Encalada;Avenida Lima Polo;-76.9692345;-12.0990933
+1087;Avenida El Derby;Avenida La Encalada;-76.9691972;-12.0989907
+1088;Avenida La Encalada;Avenida El Derby;-76.9691972;-12.0989907
+1089;La Cuesta;El Cascajal;-76.9691255;-12.116925
+1090;El Cascajal;La Cuesta;-76.9691255;-12.116925
+1091;Avenida Lima Polo;Avenida Lima Polo;-76.9691036;-12.0990913
+1092;Avenida Tambo Real;Avenida Tambo Real;-76.9690744;-12.1134397
+1093;Avenida El Derby;Avenida Lima Polo;-76.9690688;-12.0989795
+1094;JirÃ³n El Cortijo;JirÃ³n El Cortijo;-76.9690374;-12.0975011
+1095;JirÃ³n Tuman;Avenida Tomasal;-76.9690293;-12.1086085
+1096;Avenida Tomasal;JirÃ³n Tuman;-76.9690293;-12.1086085
+1097;Avenida Tomasal;Avenida Tambo Real;-76.9689683;-12.1137884
+1098;Avenida Tambo Real;Avenida Tomasal;-76.9689683;-12.1137884
+1099;JirÃ³n Cayalti;San Ignacio;-76.9689624;-12.1065169
+1100;San Ignacio;JirÃ³n Cayalti;-76.9689624;-12.1065169
+1101;Avenida El Polo;JirÃ³n Buen Retiro;-76.9689547;-12.0959419
+1102;Avenida El Polo;Avenida El Polo;-76.9689547;-12.0959419
+1103;JirÃ³n Buen Retiro;Avenida El Polo;-76.9689547;-12.0959419
+1104;Helechos;El Maizal;-76.9689528;-12.1041356
+1105;El Maizal;Helechos;-76.9689528;-12.1041356
+1106;Avenida Tomasal;Las Colinas;-76.968888;-12.1136855
+1107;Las Colinas;Avenida Tomasal;-76.968888;-12.1136855
+1108;Helechos;JirÃ³n AldebarÃ¡n;-76.9688692;-12.1037077
+1109;JirÃ³n AldebarÃ¡n;Helechos;-76.9688692;-12.1037077
+1110;Avenida Tomasal;JirÃ³n Alonso de Molina;-76.9686878;-12.1090576
+1111;JirÃ³n Alonso de Molina;Avenida Tomasal;-76.9686878;-12.1090576
+1112;JirÃ³n Cayalti;Santa Elena Norte;-76.9686016;-12.1068911
+1113;Santa Elena Norte;JirÃ³n Cayalti;-76.9686016;-12.1068911
+1114;Santa Elena Norte;Santa Elena Norte;-76.9686016;-12.1068911
+1115;Calle Montebrecia;El Cascajal;-76.9685088;-12.1164827
+1116;El Cascajal;Calle Montebrecia;-76.9685088;-12.1164827
+1117;Santa Elena Sur;Santa Elena Norte;-76.9683688;-12.1063366
+1118;Santa Elena Norte;Santa Elena Sur;-76.9683688;-12.1063366
+1119;El Pedregal;Las Colinas;-76.9683285;-12.1141224
+1120;Las Colinas;El Pedregal;-76.9683285;-12.1141224
+1121;Calle Las Laderas;La Cuesta;-76.9682613;-12.1177558
+1122;La Cuesta;Calle Las Laderas;-76.9682613;-12.1177558
+1123;Santa Elena Norte;Calle Zinnia;-76.9682568;-12.1060058
+1124;Calle Zinnia;Santa Elena Norte;-76.9682568;-12.1060058
+1125;Avenida Lima Polo;Calle La Girlada;-76.9682246;-12.0990917
+1126;Calle La Girlada;Avenida Lima Polo;-76.9682246;-12.0990917
+1127;PÃ­o XII;Avenida El Polo;-76.9681342;-12.0951302
+1128;Avenida El Polo;PÃ­o XII;-76.9681342;-12.0951302
+1129;Avenida Tomasal;Avenida Tomasal;-76.9680914;-12.1126966
+1130;Avenida Primavera;Santa Elena Sur;-76.9680573;-12.1070008
+1131;Santa Elena Sur;Avenida Primavera;-76.9680573;-12.1070008
+1132;Santa Elena Norte;Calle La Arboleda;-76.9680075;-12.1053414
+1133;Calle La Arboleda;Santa Elena Norte;-76.9680075;-12.1053414
+1134;Santa Elena Norte;Tamarix;-76.9678824;-12.1050251
+1135;Tamarix;Santa Elena Norte;-76.9678824;-12.1050251
+1136;Santa Elena Norte;Calle Los Duraznos;-76.9677712;-12.1047476
+1137;Calle Los Duraznos;Santa Elena Norte;-76.9677712;-12.1047476
+1138;Calle La Girlada;JirÃ³n El Cortijo;-76.9677709;-12.0979877
+1139;JirÃ³n El Cortijo;Calle La Girlada;-76.9677709;-12.0979877
+1140;Santa Elena Norte;Mazus;-76.9677148;-12.1046036
+1141;Mazus;Santa Elena Norte;-76.9677148;-12.1046036
+1142;JirÃ³n Tuman;Santa Elena Sur;-76.9676405;-12.1076088
+1143;Santa Elena Sur;JirÃ³n Tuman;-76.9676405;-12.1076088
+1144;Santa Elena Norte;JirÃ³n AldebarÃ¡n;-76.967532;-12.1041503
+1145;JirÃ³n AldebarÃ¡n;Santa Elena Norte;-76.967532;-12.1041503
+1146;Tomasal;Avenida Tomasal;-76.9675233;-12.1119726
+1147;Tomasal;Pasaje Las Veronicas;-76.9675233;-12.1119726
+1148;Avenida Tomasal;Tomasal;-76.9675233;-12.1119726
+1149;Avenida Tomasal;Pasaje Las Veronicas;-76.9675233;-12.1119726
+1150;Pasaje Las Veronicas;Tomasal;-76.9675233;-12.1119726
+1151;Pasaje Las Veronicas;Avenida Tomasal;-76.9675233;-12.1119726
+1152;Las Colinas;El Cascajal;-76.9675111;-12.1147168
+1153;El Cascajal;Las Colinas;-76.9675111;-12.1147168
+1154;Las Catileyas;Avenida Tomasal;-76.9674656;-12.1107161
+1155;Avenida Tomasal;Las Catileyas;-76.9674656;-12.1107161
+1156;Santa Elena Sur;JirÃ³n Alonso de Molina;-76.967318;-12.1080531
+1157;Santa Elena Sur;Santa Elena Sur;-76.967318;-12.1080531
+1158;JirÃ³n Alonso de Molina;Santa Elena Sur;-76.967318;-12.1080531
+1159;El Aliso;JirÃ³n AldebarÃ¡n;-76.9673036;-12.1042379
+1160;JirÃ³n AldebarÃ¡n;El Aliso;-76.9673036;-12.1042379
+1161;Calle El Eucalipto;Avenida Tomasal;-76.9671639;-12.111151
+1162;Avenida Tomasal;Calle El Eucalipto;-76.9671639;-12.111151
+1163;Laguna Chica;Avenida Tomasal;-76.9671371;-12.1113093
+1164;Avenida Tomasal;Laguna Chica;-76.9671371;-12.1113093
+1165;El Aliso;Calle Baobad;-76.9669586;-12.1033693
+1166;Calle Baobad;El Aliso;-76.9669586;-12.1033693
+1167;Calle Baobad;Calle Baobad;-76.9669586;-12.1033693
+1168;Tambo de Oro;Avenida Primavera;-76.9668369;-12.106224
+1169;Avenida Primavera;Tambo de Oro;-76.9668369;-12.106224
+1170;Avenida Primavera;Calle La Arboleda;-76.9667929;-12.1060974
+1171;Calle La Arboleda;Avenida Primavera;-76.9667929;-12.1060974
+1172;Calle Union;Avenida Lima Polo;-76.9667801;-12.0996581
+1173;Avenida Lima Polo;Calle Union;-76.9667801;-12.0996581
+1174;Calle Pinerolo;PÃ­o XII;-76.9667057;-12.095632
+1175;PÃ­o XII;Calle Pinerolo;-76.9667057;-12.095632
+1176;Calle El Eucalipto;Santa Elena Sur;-76.9666458;-12.109563
+1177;Cerro San Francisco;La Cumbre;-76.9666041;-12.1173642
+1178;La Cumbre;Cerro San Francisco;-76.9666041;-12.1173642
+1179;La Malva;JirÃ³n AldebarÃ¡n;-76.9665778;-12.1045163
+1180;JirÃ³n AldebarÃ¡n;La Malva;-76.9665778;-12.1045163
+1181;Santa Elena Sur;Las Catileyas;-76.9664675;-12.1099637
+1182;Las Catileyas;Santa Elena Sur;-76.9664675;-12.1099637
+1183;Calle Union;JirÃ³n El Cortijo;-76.9663466;-12.0985394
+1184;JirÃ³n El Cortijo;Calle Union;-76.9663466;-12.0985394
+1185;Tambo de Oro;JirÃ³n Alonso de Molina;-76.9661357;-12.1071804
+1186;JirÃ³n Alonso de Molina;Tambo de Oro;-76.9661357;-12.1071804
+1187;Amarilis;Avenida Primavera;-76.9661071;-12.1056839
+1188;Avenida Primavera;Amarilis;-76.9661071;-12.1056839
+1189;Santa Elena Sur;Calle El Eucalipto;-76.9661027;-12.110783
+1190;PÃ­o XII;Avenida Lima Polo;-76.9660508;-12.0999317
+1191;Avenida Lima Polo;PÃ­o XII;-76.9660508;-12.0999317
+1192;Calle Las Laderas;Las Colinas;-76.9659146;-12.1150549
+1193;Las Colinas;Calle Las Laderas;-76.9659146;-12.1150549
+1194;Las Colinas;Las Colinas;-76.9659146;-12.1150549
+1195;Amarilis;Aster;-76.9657507;-12.1061749
+1196;Aster;Amarilis;-76.9657507;-12.1061749
+1197;Los Alamos;JirÃ³n AldebarÃ¡n;-76.9657442;-12.1048176
+1198;JirÃ³n AldebarÃ¡n;Los Alamos;-76.9657442;-12.1048176
+1199;JirÃ³n AldebarÃ¡n;JirÃ³n AldebarÃ¡n;-76.9657442;-12.1048176
+1200;Armardo Alvardo;JirÃ³n Alonso de Molina;-76.9656876;-12.1068514
+1201;JirÃ³n Alonso de Molina;Armardo Alvardo;-76.9656876;-12.1068514
+1202;Calle Las Laderas;Calle San Jorge;-76.9656702;-12.1131317
+1203;Calle San Jorge;Calle Las Laderas;-76.9656702;-12.1131317
+1204;PÃ­o XII;JirÃ³n El Cortijo;-76.9656119;-12.0988156
+1205;PÃ­o XII;PÃ­o XII;-76.9656119;-12.0988156
+1206;JirÃ³n El Cortijo;PÃ­o XII;-76.9656119;-12.0988156
+1207;Los Alamos;Ovalo Los Delfines;-76.9655459;-12.1050388
+1208;Ovalo Los Delfines;Los Alamos;-76.9655459;-12.1050388
+1209;Calle Las Laderas;Calle Las Laderas;-76.9654951;-12.1137635
+1210;Avenida Los Algarrobos;Avenida Lima Polo;-76.9654919;-12.1001387
+1211;Avenida Lima Polo;Avenida Los Algarrobos;-76.9654919;-12.1001387
+1212;PÃ­o XII;Juan XXIII;-76.9654794;-12.0963486
+1213;Juan XXIII;PÃ­o XII;-76.9654794;-12.0963486
+1214;JirÃ³n AldebarÃ¡n;Ovalo Los Delfines;-76.9654639;-12.1048695
+1215;Ovalo Los Delfines;JirÃ³n AldebarÃ¡n;-76.9654639;-12.1048695
+1216;Amarilis;JirÃ³n Alonso de Molina;-76.9654089;-12.1066458
+1217;JirÃ³n Alonso de Molina;Amarilis;-76.9654089;-12.1066458
+1218;Los Narcisos;Ovalo Los Delfines;-76.9653902;-12.1048563
+1219;Ovalo Los Delfines;Los Narcisos;-76.9653902;-12.1048563
+1220;Ovalo Los Delfines;Avenida Central;-76.9653715;-12.1051459
+1221;Avenida Central;Ovalo Los Delfines;-76.9653715;-12.1051459
+1222;PÃ­o XII;JirÃ³n Buen Retiro;-76.9653517;-12.0967525
+1223;JirÃ³n Buen Retiro;PÃ­o XII;-76.9653517;-12.0967525
+1224;PÃ­o XII;Calle Juan Pablo II;-76.9652558;-12.0969787
+1225;Calle Juan Pablo II;PÃ­o XII;-76.9652558;-12.0969787
+1226;Avenida Primavera;Ovalo Los Delfines;-76.9652528;-12.1050242
+1227;Ovalo Los Delfines;Avenida Primavera;-76.9652528;-12.1050242
+1228;PÃ­o XII;Benjamin Doig Lossio;-76.9651822;-12.0973522
+1229;Benjamin Doig Lossio;PÃ­o XII;-76.9651822;-12.0973522
+1230;Armardo Alvardo;Calle Las Cantuas;-76.9651761;-12.1079595
+1231;Calle Las Cantuas;Armardo Alvardo;-76.9651761;-12.1079595
+1232;Cerro San Francisco;Cerro San Francisco;-76.9651712;-12.1158984
+1233;Cerro San Francisco;Las Colinas;-76.9651712;-12.1158984
+1234;Las Colinas;Cerro San Francisco;-76.9651712;-12.1158984
+1235;JirÃ³n Johan Sebastian Bach;JirÃ³n Johan Sebastian Bach;-76.9651116;-12.109515
+1236;Avenida Los Algarrobos;JirÃ³n El Cortijo;-76.965064;-12.0990339
+1237;JirÃ³n El Cortijo;Avenida Los Algarrobos;-76.965064;-12.0990339
+1238;Aster;Avenida Central;-76.9650598;-12.1056751
+1239;Avenida Central;Aster;-76.9650598;-12.1056751
+1240;Jose Nicolas Rodrigo;Avenida Lima Polo;-76.9649355;-12.1003497
+1241;Jose Nicolas Rodrigo;Avenida NicolÃ s Rodrigo;-76.9649355;-12.1003497
+1242;Avenida Lima Polo;Jose Nicolas Rodrigo;-76.9649355;-12.1003497
+1243;Avenida Lima Polo;Avenida NicolÃ s Rodrigo;-76.9649355;-12.1003497
+1244;Avenida NicolÃ s Rodrigo;Jose Nicolas Rodrigo;-76.9649355;-12.1003497
+1245;Avenida NicolÃ s Rodrigo;Avenida Lima Polo;-76.9649355;-12.1003497
+1246;Armardo Alvardo;25 de Setiembre;-76.9649058;-12.1085449
+1247;25 de Setiembre;Armardo Alvardo;-76.9649058;-12.1085449
+1248;JirÃ³n Alonso de Molina;Avenida Central;-76.9647649;-12.1061619
+1249;Avenida Central;JirÃ³n Alonso de Molina;-76.9647649;-12.1061619
+1250;Los Robles;Avenida Primavera;-76.9647204;-12.1045784
+1251;Avenida Primavera;Los Robles;-76.9647204;-12.1045784
+1252;Armardo Alvardo;JirÃ³n Johan Sebastian Bach;-76.9646645;-12.1091119
+1253;JirÃ³n Johan Sebastian Bach;Armardo Alvardo;-76.9646645;-12.1091119
+1254;Avenida Primavera;Calle El Recuerdo;-76.9646577;-12.1046121
+1255;Calle El Recuerdo;Avenida Primavera;-76.9646577;-12.1046121
+1256;Calle La Cumbre;Calle Laguna Chica;-76.9645485;-12.1117856
+1257;Calle Laguna Chica;Calle La Cumbre;-76.9645485;-12.1117856
+1258;Juan XXIII;Paulo VI;-76.9645025;-12.0960044
+1259;Paulo VI;Juan XXIII;-76.9645025;-12.0960044
+1260;Wolfgang Amadeus Mozart;Wolfgang Amadeus Mozart;-76.9644826;-12.1109426
+1261;Jose Nicolas Rodrigo;JirÃ³n El Cortijo;-76.9644534;-12.0992699
+1262;Jose Nicolas Rodrigo;Cineraria;-76.9644534;-12.0992699
+1263;JirÃ³n El Cortijo;Jose Nicolas Rodrigo;-76.9644534;-12.0992699
+1264;JirÃ³n El Cortijo;Cineraria;-76.9644534;-12.0992699
+1265;Cineraria;Jose Nicolas Rodrigo;-76.9644534;-12.0992699
+1266;Cineraria;JirÃ³n El Cortijo;-76.9644534;-12.0992699
+1267;Calle Las Cantuas;Avenida Central;-76.9642533;-12.1072884
+1268;Avenida Central;Calle Las Cantuas;-76.9642533;-12.1072884
+1269;Calle La Pergola;Avenida Primavera;-76.9642351;-12.1042264
+1270;Avenida Primavera;Calle La Pergola;-76.9642351;-12.1042264
+1271;25 de Setiembre;Avenida Central;-76.9639677;-12.1078675
+1272;Avenida Central;25 de Setiembre;-76.9639677;-12.1078675
+1273;Calle El Recuerdo;JirÃ³n Alonso de Molina;-76.9639431;-12.1055669
+1274;JirÃ³n Alonso de Molina;Calle El Recuerdo;-76.9639431;-12.1055669
+1275;Cineraria;Calle Ponciana Regia;-76.9638666;-12.0952811
+1276;Calle Ponciana Regia;Cineraria;-76.9638666;-12.0952811
+1277;Calle Flor de Liz;Cineraria;-76.9638631;-12.0978184
+1278;Cineraria;Calle Flor de Liz;-76.9638631;-12.0978184
+1279;JirÃ³n Johan Sebastian Bach;Avenida Central;-76.9637169;-12.1083422
+1280;Avenida Central;JirÃ³n Johan Sebastian Bach;-76.9637169;-12.1083422
+1281;Calle Las Clivias;JirÃ³n Alonso de Molina;-76.9636177;-12.1053384
+1282;JirÃ³n Alonso de Molina;Calle Las Clivias;-76.9636177;-12.1053384
+1283;Wolfgang Amadeus Mozart;Calle 4;-76.9635881;-12.110159
+1284;Calle 4;Wolfgang Amadeus Mozart;-76.9635881;-12.110159
+1285;Cineraria;Pasaje El Mangle;-76.9634918;-12.0966131
+1286;Pasaje El Mangle;Cineraria;-76.9634918;-12.0966131
+1287;Cineraria;Las Caliandras;-76.9634556;-12.0974918
+1288;Cineraria;Cineraria;-76.9634556;-12.0974918
+1289;Las Caliandras;Cineraria;-76.9634556;-12.0974918
+1290;Calle Ponciana Regia;Los Cafetos;-76.9633915;-12.0952733
+1291;Los Cafetos;Calle Ponciana Regia;-76.9633915;-12.0952733
+1292;Wolfgang Amadeus Mozart;Avenida Central;-76.9632173;-12.1087336
+1293;Avenida Central;Wolfgang Amadeus Mozart;-76.9632173;-12.1087336
+1294;JirÃ³n Las Fresias;JirÃ³n Alonso de Molina;-76.9631961;-12.1050422
+1295;JirÃ³n Alonso de Molina;JirÃ³n Las Fresias;-76.9631961;-12.1050422
+1296;Los Cafetos;Las Caliandras;-76.9630701;-12.0979653
+1297;Las Caliandras;Los Cafetos;-76.9630701;-12.0979653
+1298;Los Cafetos;Pasaje El Mangle;-76.9630039;-12.0964588
+1299;Pasaje El Mangle;Los Cafetos;-76.9630039;-12.0964588
+1300;JirÃ³n Las Fresias;Pasaje Tundras;-76.9629694;-12.1053483
+1301;Pasaje Tundras;JirÃ³n Las Fresias;-76.9629694;-12.1053483
+1302;Avenida Primavera;Avenida NicolÃ s Rodrigo;-76.9626337;-12.102967
+1303;Avenida NicolÃ s Rodrigo;Avenida Primavera;-76.9626337;-12.102967
+1304;Avenida NicolÃ s Rodrigo;Avenida NicolÃ s Rodrigo;-76.9626337;-12.102967
+1305;JirÃ³n Johan Sebastian Bach;Calle Las Clivias;-76.9626005;-12.1076182
+1306;Calle Las Clivias;JirÃ³n Johan Sebastian Bach;-76.9626005;-12.1076182
+1307;Calle 4;Federico Chopin;-76.9625852;-12.1106454
+1308;Federico Chopin;Calle 4;-76.9625852;-12.1106454
+1309;Estepa Rusa;JirÃ³n Las Fresias;-76.9624809;-12.1060077
+1310;JirÃ³n Las Fresias;Estepa Rusa;-76.9624809;-12.1060077
+1311;Avenida Jose Nicolas Rodrigo;JirÃ³n Alonso de Molina;-76.9624729;-12.1045294
+1312;JirÃ³n Alonso de Molina;Avenida Jose Nicolas Rodrigo;-76.9624729;-12.1045294
+1313;JirÃ³n Las Fresias;Pasaje Selva Virgen;-76.962265;-12.1062991
+1314;Pasaje Selva Virgen;JirÃ³n Las Fresias;-76.962265;-12.1062991
+1315;Avenida Jose Nicolas Rodrigo;Pasaje Tundras;-76.96225;-12.1048305
+1316;Pasaje Tundras;Avenida Jose Nicolas Rodrigo;-76.96225;-12.1048305
+1317;Federico Chopin;Avenida Central;-76.9622213;-12.108759
+1318;Avenida Central;Federico Chopin;-76.9622213;-12.108759
+1319;Avenida Central;Avenida Central;-76.9622213;-12.108759
+1320;Avenida Jose Nicolas Rodrigo;Estepa Rusa;-76.9617514;-12.1055041
+1321;Estepa Rusa;Avenida Jose Nicolas Rodrigo;-76.9617514;-12.1055041
+1322;Calle 2;Calle 5;-76.9616719;-12.0982996
+1323;Calle 5;Calle 2;-76.9616719;-12.0982996
+1324;JirÃ³n Las Fresias;Avenida Central;-76.9615679;-12.1085573
+1325;Avenida Central;JirÃ³n Las Fresias;-76.9615679;-12.1085573
+1326;Avenida Jose Nicolas Rodrigo;Pasaje Selva Virgen;-76.961534;-12.1057937
+1327;Pasaje Selva Virgen;Avenida Jose Nicolas Rodrigo;-76.961534;-12.1057937
+1328;JirÃ³n Nicola Paganini;JirÃ³n Nicola Paganini;-76.9612334;-12.1099347
+1329;Federico Chopin;Federico Chopin;-76.9611717;-12.1115182
+1330;JirÃ³n Nicola Paganini;Avenida Central;-76.9611415;-12.1085697
+1331;Avenida Central;JirÃ³n Nicola Paganini;-76.9611415;-12.1085697
+1332;Ludwig Van Beethoven;Avenida Central;-76.9604371;-12.1082421
+1333;Avenida Central;Ludwig Van Beethoven;-76.9604371;-12.1082421
+1334;Ludwig Van Beethoven;Avenida Jose Nicolas Rodrigo;-76.9604094;-12.1072921
+1335;Avenida Jose Nicolas Rodrigo;Ludwig Van Beethoven;-76.9604094;-12.1072921
