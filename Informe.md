@@ -106,6 +106,6 @@ Por ello para el algoritmo se tomo la misma idea y se decidio por eliminar las u
         return OnewPath, self.t.obtenerPath(end, OnewPath, auxPath)
 ```
 ## Conclusiones
+- En este trabajo final se lograron concluir satisfactoriamente algoritmos de lectura de datos, creación de grafos usando listas de adyacencia y de busqueda del camino minimo y sus caminos alternos.
 
-
-Mayo 2022
+Julio 2022
