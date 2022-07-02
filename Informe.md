@@ -30,7 +30,7 @@ El trabajo se realizó tomando como referencia en distrito de Surco, para se má
 Para el presenta trabajo se a consignado como datos un id de tipo int, un name de tipo string, name_2 también de tipo string, un Coordenada_x de tipo float y un Coordenada_y tambien de tipo float. Siendo name y name_2 representación de las calles que formaron esa intersección, y Coordenada_x y Coordenada_y la representación de las coordenadas de cada intersección.
 
 <p align="center">
-  <img src="./assets/datos-en-excel.png" alt=""/>
+  <img src="./assets/datos-en-excel.PNG" alt=""/>
   <p align="center">Figura 2. Imagen de los datos en excel.</p>  
 </p>
 
@@ -86,7 +86,7 @@ Este algoritmo calcula el camino minimo entre un nodo inicial elegido hacia el r
 Para lograr los camino alternativos se tomo como guía la forma en que google maps nos muestra los camino minimos alternos. Los cuales no toman necesariamente un nuevo camino, sino que pueden tomar una pequeña sección del camino inical para formar parte de un camino alternativo.
 
 <p align="center">
-  <img src="./assets/mapa-rutas.png" alt=""/>
+  <img src="./assets/mapa-rutas.PNG" alt=""/>
   <p align="center">Figura 3. Imagen de Google maps que muestra un ejemplo de caminos alternos.</p>  
 </p>
 

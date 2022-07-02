@@ -14,9 +14,13 @@ def graph():
 
 
 def paths(start, t):
-    
-    bestpath = s.route(start, t)
-    path1 = s.firstAlernativeRoute()
-    path2 = s.secondAlternativeRoute()
+    while(True):
+        bestpath, path = s.route(start, t)
+        path1 = s.firstAlernativeRoute()
+        path2 = s.secondAlternativeRoute()
+        if len(path) > 3:
+            break
+        else:
+            start = r.randint(1,652)
     s.__init__()
     return json.dumps({"bestpath": bestpath, "path1": path1, "path2": path2})

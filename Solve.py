@@ -1,10 +1,10 @@
 import Graphy
 
 class Solve:
-    def __init__(self):
+    def __init__(self, traffic = False, time = 7):
         self.g = Graphy.Grapho()
         self.g.create()
-        self.g.createAdjList()
+        self.g.createAdjList(traffic, time)
         self.bRoute = []
         self.fARoute = []
         self.sARoute = []
@@ -19,7 +19,7 @@ class Solve:
         route = []
         #print("la primera ruta")  
         route, self.bRoute = self.g.bestRoute(start, end)
-        return route
+        return route, self.bRoute
     def firstAlernativeRoute(self):
         auxPath = []
         route = []

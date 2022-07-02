@@ -5,11 +5,12 @@
 
   const urlgraph = "graph";
   const graph = await d3.json(urlgraph);
-
+  console.log(graph.g)
   const s = Math.floor(Math.random() * graph.g.length);
   const t = Math.floor(Math.random() * graph.g.length);
   const urlpaths = `paths/${s}/${t}`
   const paths = await d3.json(urlpaths);
+  console.log(paths)
 
   // config
 

@@ -14,9 +14,9 @@ class Grapho:
         #self.shortRoute = []
         #self.firstAlternativeRoute = []
         #self.secondAlternativeRoute = []
-        self.pic = []
+        pic = []
 
-    def create(self,path = 'Data_+1000.csv' ):
+    def create(self,path = 'Data.csv' ):
         with open(path) as archivo:
             add = set()
             lector = csv.reader(archivo)
@@ -36,8 +36,9 @@ class Grapho:
         xpix, ypix = len(self.nodos), len(self.nodos)
         self.pic = [[noise([i/xpix, j/ypix]) for j in range(xpix)] for i in range(ypix)]
 
-    def createAdjList(self):
-        #self.createTraffic(19)
+    def createAdjList(self, traffic = False, time  = 7):
+        if traffic == True:
+            self.createTraffic(time)
         cont = 0
         flag0 = True
         flag1 = True
@@ -46,14 +47,18 @@ class Grapho:
         for i in range(len(self.nodos) - 1):
             for j in range(i , len(self.nodos) - 1):
                 if flag0 and self.nodos[i][0] == (self.nodos[j + 1][0] or self.nodos[j + 1][1]):
-                    d = self.t.distance(self.nodos[i][2], self.nodos[i][3],self.nodos[j + 1][2], self.nodos[j + 1][3])
-                    #d = d * (self.pic[i][j + 1] + 10)
+                    if traffic == False :
+                        d = self.t.distance(self.nodos[i][2], self.nodos[i][3],self.nodos[j + 1][2], self.nodos[j + 1][3])
+                    else:
+                        d = self.pic[i][j + 1] + 1000
                     self.adjList[i].append([j + 1,d])
                     self.adjList[j + 1].append([i, d])
                     flag0 = False
                 if flag1 and self.nodos[i][1] == (self.nodos[j + 1][1] or self.nodos[j + 1][0]):
-                    d = self.t.distance(self.nodos[i][2], self.nodos[i][3],self.nodos[j + 1][2], self.nodos[j + 1][3])
-                    #d = d * (self.pic[j][i + 1] + 10)
+                    if traffic == False :
+                        d = self.t.distance(self.nodos[i][2], self.nodos[i][3],self.nodos[j + 1][2], self.nodos[j + 1][3])
+                    else:
+                        d = self.pic[j][i + 1] + 10
                     self.adjList[i].append([j + 1,d])
                     self.adjList[j + 1].append([i, d])
                     flag1 = False
